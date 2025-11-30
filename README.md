@@ -33,16 +33,16 @@ If you have any questions or would like to engage with our community, feel free 
 #### Table of Contents
 
 - [Latest Papers](#latest-papers)
-  - [2025](#year-2025)
-  - [2024](#year-2024)
-  - [2023](#year-2023)
-  - [2022](#year-2022)
+  - [Year-2025](#Year-2025)
+  - [Year-2024](#Year-2024)
+  - [Year-2023](#Year-2023)
+  - [Year-2022](#Year-2022)
   - [earlier](#earlier)
 # Latest Papers
 
 # References by Year
 
-## year-2025
+## Year-2025
 
 | Title | GitHub |
 | --- | --- |
@@ -274,7 +274,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [{EMR}-{AGENT}: Automating Cohort and Feature Extraction from {EMR} Databases](https://arxiv.org/abs/2510.00549) | miss |
 | {Verifiers}: Reinforcement Learning with LLMs in Verifiable Environments (miss) | miss |
 
-## year-2024
+## Year-2024
 
 | Title | GitHub |
 | --- | --- |
@@ -389,7 +389,7 @@ If you have any questions or would like to engage with our community, feel free 
 | Windows agent arena: Evaluating multi-modal os agents at scale (miss) | miss |
 | [Zodiac: A cardiologist-level llm framework for multi-agent diagnostics](https://arxiv.org/abs/2410.02026) | miss |
 
-## year-2023
+## Year-2023
 
 | Title | GitHub |
 | --- | --- |
@@ -425,7 +425,7 @@ If you have any questions or would like to engage with our community, feel free 
 | Tree of Thoughts: Deliberate Problem Solving with Large Language Models (miss) | miss |
 | Webarena: A realistic web environment for building autonomous agents (miss) | miss |
 
-## year-2022
+## Year-2022
 
 | Title | GitHub |
 | --- | --- |
