@@ -5,6 +5,9 @@ This is the official repository for the survey paper: **The Landscape of Medical
 <!-- [**ArXiv – https://arxiv.org/abs/2506.04405**](https://arxiv.org/abs/2506.04405)
 
 [**HuggingFace – https://huggingface.co/papers/2506.04405**](https://huggingface.co/papers/2506.04405) -->
+<p align="center">
+  <img src="./picture.png" alt="Overall Landscape" width="100%" />
+</p>
 
 
 ## Keywords
@@ -470,6 +473,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
