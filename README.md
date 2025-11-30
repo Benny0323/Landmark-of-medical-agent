@@ -23,7 +23,7 @@ November 30th, 2025
 If you have any questions or would like to engage with our community, feel free to scan the QR code below to join our WeChat group.
 
 <p align="center">
-  <img src="./qun.jpg" alt="" width="100%" />
+  <img src="./qun.jpg" alt="" width="60%" />
 </p>
 
 ## Main Contacts
@@ -173,5 +173,6 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
