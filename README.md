@@ -33,17 +33,16 @@ If you have any questions or would like to engage with our community, feel free 
 #### Table of Contents
 
 - [Latest Papers](#latest-papers)
-  - [Year 2025](#year-2025)
-  - [Year 2024](#year-2024)
-  - [Year 2023](#year-2023)
-
-
-
+  - [2025](#year-2025)
+  - [2024](#year-2024)
+  - [2023](#year-2023)
+  - [2022](#year-2022)
+  - [earlier](#earlier)
 # Latest Papers
 
 # References by Year
 
-## 2025
+## year-2025
 
 | Title | GitHub |
 | --- | --- |
@@ -275,7 +274,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [{EMR}-{AGENT}: Automating Cohort and Feature Extraction from {EMR} Databases](https://arxiv.org/abs/2510.00549) | miss |
 | {Verifiers}: Reinforcement Learning with LLMs in Verifiable Environments (miss) | miss |
 
-## 2024
+## year-2024
 
 | Title | GitHub |
 | --- | --- |
@@ -390,7 +389,7 @@ If you have any questions or would like to engage with our community, feel free 
 | Windows agent arena: Evaluating multi-modal os agents at scale (miss) | miss |
 | [Zodiac: A cardiologist-level llm framework for multi-agent diagnostics](https://arxiv.org/abs/2410.02026) | miss |
 
-## 2023
+## year-2023
 
 | Title | GitHub |
 | --- | --- |
@@ -426,7 +425,7 @@ If you have any questions or would like to engage with our community, feel free 
 | Tree of Thoughts: Deliberate Problem Solving with Large Language Models (miss) | miss |
 | Webarena: A realistic web environment for building autonomous agents (miss) | miss |
 
-## 2022
+## year-2022
 
 | Title | GitHub |
 | --- | --- |
@@ -443,7 +442,7 @@ If you have any questions or would like to engage with our community, feel free 
 | Webshop: Towards scalable real-world web interaction with grounded language agents (miss) | miss |
 | [{MedMCQA}: A Large-scale Multi-Subject Multi-Choice Dataset for Medical Domain Question Answering](2022.3) | miss |
 
-## 2021
+## earlier
 
 | Title | GitHub |
 | --- | --- |
@@ -456,11 +455,6 @@ If you have any questions or would like to engage with our community, feel free 
 | Human-AI collaboration in healthcare: A review and research agenda (miss) | miss |
 | [Levels of autonomy and safety assurance for AI-Based clinical decision systems](2021.8) | miss |
 | Measuring Massive Multitask Language Understanding (miss) | miss |
-
-## 2020
-
-| Title | GitHub |
-| --- | --- |
 | Alfworld: Aligning text and embodied environments for interactive learning (miss) | miss |
 | Autonomous systems and artificial intelligence in healthcare transformation to 5P medicine--ethical challenges (miss) | miss |
 | Boundary-aware supervoxel-level iteratively refined interactive 3d image segmentation with multi-agent reinforcement learning (miss) | miss |
@@ -468,68 +462,22 @@ If you have any questions or would like to engage with our community, feel free 
 | Medical visual question answering via conditional reasoning (miss) | miss |
 | PathVQA: 30000+ Questions for Medical Visual Question Answering (miss) | miss |
 | What Disease Does This Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams (miss) | miss |
-
-## 2019
-
-| Title | GitHub |
-| --- | --- |
 | Bertscore: Evaluating text generation with bert (miss) | miss |
 | PubMedQA: A Dataset for Biomedical Research Question Answering (miss) | miss |
 | The starcraft multi-agent challenge (miss) | miss |
-
-## 2018
-
-| Title | GitHub |
-| --- | --- |
 | A Dataset of Clinically Generated Visual Questions and Answers About Radiology Images (miss) | miss |
 | Modeling irregularly sampled clinical time series (miss) | miss |
 | Textworld: A learning environment for text-based games (miss) | miss |
 | The artificial intelligence clinician learns optimal treatment strategies for sepsis in intensive care (miss) | miss |
-
-## 2017
-
-| Title | GitHub |
-| --- | --- |
 | Medical robotics—Regulatory, ethical, and legal considerations for increasing levels of autonomy (miss) | miss |
 | Tethered to the EHR: primary care physician workload assessment using EHR event log data and time-motion observations (miss) | miss |
-
-## 2016
-
-| Title | GitHub |
-| --- | --- |
 | Allocation of physician time in ambulatory practice: a time and motion study in 4 specialties (miss) | miss |
-
-## 2015
-
-| Title | GitHub |
-| --- | --- |
 | Developing an educational medical game using AgilePASSI multi-agent methodology (miss) | miss |
-
-## 2012
-
-| Title | GitHub |
-| --- | --- |
 | Assessing electronic note quality using the physician documentation quality instrument (PDQI-9) (miss) | miss |
-
-## 2009
-
-| Title | GitHub |
-| --- | --- |
 | Privacy by design: The 7 foundational principles (miss) | miss |
-
-## 2004
-
-| Title | GitHub |
-| --- | --- |
 | Rouge: A package for automatic evaluation of summaries (miss) | miss |
 | Upper processing stages of the perception--action cycle (miss) | miss |
-
-## unknown-year
-
-| Title | GitHub |
-| --- | --- |
 | OpenAI o1: A Reasoning-Capable Large Language Model (miss) | miss |
-
 
 
 ## Acknowledgments
@@ -548,3 +496,5 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
+
