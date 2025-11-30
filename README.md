@@ -45,9 +45,7 @@ If you have any questions or would like to engage with our community, feel free 
 ## Year-2025
 
 | Title | GitHub |
-
 | --- | --- |
-
 | [3mdbench: Medical multimodal multi-agent dialogue benchmark](https://arxiv.org/abs/2504.13861) | [GitHub](https://github.com/univanxx/3mdbench) |
 
 | [A co-evolving agentic AI system for medical imaging analysis](https://arxiv.org/abs/2509.20279) | [GitHub](https://github.com/zhihuanglab/TissueLab) |
@@ -672,5 +670,6 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
