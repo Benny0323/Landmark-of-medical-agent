@@ -353,7 +353,6 @@ If you have any questions or would like to engage with our community, feel free 
 | [Generative agents: Interactive simulacra of human behavior](https://arxiv.org/abs/2304.03442) | [GitHub](https://github.com/joonspk-research/generative_agents) |
 | [Interactive medical image segmentation with self-adaptive confidence calibration](https://arxiv.org/abs/2111.07716) | [GitHub](https://github.com/Chuyun-Shen/Interactive-Medical-Image-Segmentation-with-MARL) |
 | [Large language models as agents in the clinic](https://arxiv.org/abs/2309.10895) | Not available |
-| [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560) | Not available |
 | [MetaGPT: Meta programming for a multi-agent collaborative framework](https://arxiv.org/abs/2308.00352) | [GitHub](https://github.com/FoundationAgents/MetaGPT) |
 | [Navigation Through Endoluminal Channels Using Q-Learning](https://arxiv.org/abs/2309.03615) | Not available |
 | [PROFSA: SELF-SUPERVISED POCKET PRETRAINING VIA PROTEIN FRAGMENT-SURROUNDINGS ALIGN](https://arxiv.org/abs/2310.07229) | [GitHub](https://github.com/bowen-gao/ProFSA) |
@@ -418,6 +417,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
