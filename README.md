@@ -160,7 +160,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [MedCoAct: Confidence-Aware Multi-Agent Collaboration for Complete Clinical Decision](https://arxiv.org/abs/2510.10461) | Not Available |
 | [Meddxagent: A unified modular agent framework for explainable automatic differential diagnosis](https://arxiv.org/abs/2502.19175) | [GitHub](https://github.com/nec-research/meddxagent/blob/main/README.md) |
 | [MedFact: A Large-scale Chinese Dataset for Evidence-based Medical Fact-Checking of LLM Responses](https://arxiv.org/abs/2509.17436) | [GitHub](https://github.com/AshleyChenNLP/MedFact) |
-| [Ensuring Safety and Trust: Analyzing the Risks of Large Language Models in Medicine]([miss](https://arxiv.org/abs/2411.14487)) | [GitHub](https://medguard-llm.github.io/) |
+| [Ensuring Safety and Trust: Analyzing the Risks of Large Language Models in Medicine](https://arxiv.org/abs/2411.14487) | [GitHub](https://medguard-llm.github.io/) |
 | [Medhallu: A comprehensive benchmark for detecting medical hallucinations in large language models](https://arxiv.org/abs/2502.14302) | [GitHub](https://github.com/MedHallu/MedHallu) |
 | [Mediator-guided multi-agent collaboration among open-source models for medical decision-making](https://arxiv.org/abs/2508.05996) | Not Available |
 | [Medical AI Consensus: A Multi-Agent Framework for Radiology Report Generation and Evaluation](https://arxiv.org/abs/2509.17353) | Not Available |
@@ -327,7 +327,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [T-agent: A term-aware agent for medical dialogue generation](https://ieeexplore.ieee.org/document/10650649) | Not available |
 | [The role of explainability in AI-supported medical decision-making](https://link.springer.com/article/10.1007/s44163-024-00119-2) | Not available |
 | [Towards anatomy education with generative AI-based virtual assistants in immersive virtual reality environments](https://arxiv.org/abs/2306.17278) | Not available |
-| [Towards Automatic Evaluation for {LLM}s' Clinical Capabilities: Metric, Data, and Algorithm](https://arxiv.org/abs/2403.16446) | miss |
+| [Towards Automatic Evaluation for {LLM}s' Clinical Capabilities: Metric, Data, and Algorithm](https://arxiv.org/abs/2403.16446) | Not available |
 | [Towards next-generation medical agent: How o1 is reshaping decision-making in medical scenarios](https://arxiv.org/abs/2411.14461) | Not available |
 | [A trustworthy AI reality-check: the lack of transparency of artificial intelligence products in healthcare](https://pubmed.ncbi.nlm.nih.gov/38455991/) | Not available |
 | [TWIN-GPT: digital twins for clinical trials via large language model](https://arxiv.org/pdf/2404.01273) | Not available |
@@ -416,25 +416,6 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
