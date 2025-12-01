@@ -243,7 +243,6 @@ If you have any questions or would like to engage with our community, feel free 
 | [World Model for AI Autonomous Navigation in Mechanical Thrombectomy](https://arxiv.org/abs/2509.25518) | [GitHub](https://github.com/lkarstensen/stEVE) |
 | [Zep: a temporal knowledge graph architecture for agent memory](https://arxiv.org/pdf/2501.13956) | Not Available |
 | [Zero-Shot Large Language Model Agents for Fully Automated Radiotherapy Treatment Planning](https://arxiv.org/pdf/2510.11754) | Not Available |
-| [AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator](https://arxiv.org/abs/2402.09742) | [GitHub](https://github.com/LibertFan/AI_Hospital) |
 | [Bias-Aware Agent: Enhancing Fairness in AI-Driven Knowledge Retrieval](https://arxiv.org/pdf/2503.21237) | [GitHub](https://github.com/SinghKaranbir/BiasAwareAgent) |
 | [ EMR-AGENT: AUTOMATING COHORT AND FEATURE EXTRACTION FROM EMR DATABASES](https://arxiv.org/pdf/2510.00549) | [GitHub](https://github.com/AITRICS/EMR-AGENT/tree/main) |
 
@@ -422,6 +421,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
