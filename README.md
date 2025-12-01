@@ -202,7 +202,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [PASS: Probabilistic Agentic Supernet Sampling for Interpretable and Adaptive Chest X-Ray Reasoning](https://arxiv.org/abs/2508.10501) | [GitHub](https://github.com/ys-feng/PASS) |
 | [Pathfinder: A multi-modal multi-agent system for medical diagnostic decision-making applied to histopathology](https://arxiv.org/abs/2502.08916) | [GitHub](https://pathfinder-dx.github.io/) |
 | [Patient-Zero: A Unified Framework for Real-Record-Free Patient Agent Generation](https://arxiv.org/abs/2509.11078) | Not Available |
-| [Federated Machine Learning, Privacy-Enhancing Technologies, and Data Protection Laws in Medical Research: Scoping Review](https://pmc.ncbi.nlm.nih.gov/articles/PMC10131784/) | Not Available |
+| [Performance of Retrieval-Augmented Generation Large Language Models in Guideline-Concordant Prostate-Specific Antigen Testing: Comparative Study With Junior Clinicians](https://www.semanticscholar.org/paper/Performance-of-Retrieval-Augmented-Generation-Large-Tung-Le/02783c88f287257ac411e36d496f8bb7c0b5eb7f) | Not Available |
 | [Privacy in action: Towards realistic privacy mitigation and evaluation for llm-powered agents](https://arxiv.org/pdf/2509.17488) | [GitHub](https://github.com/microsoft/ACV/tree/main/misc/PrivacyInAction) |
 | [Proactive Reasoning-with-Retrieval Framework for Medical Multimodal Large Language Models](https://arxiv.org/abs/2510.18303) | [GitHub](https://github.com/xmed-lab/Med-RwR) |
 | [Program Synthesis Dialog Agents for Interactive Decision-Making](https://arxiv.org/pdf/2502.19610) | Not Available |
@@ -470,6 +470,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
