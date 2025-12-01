@@ -343,37 +343,30 @@ If you have any questions or would like to engage with our community, feel free 
 
 | Title | GitHub |
 | --- | --- |
-| A reinforcement learning approach for VQA validation: An application to diabetic macular edema grading (miss) | miss |
-| Adaptive multi-agent deep reinforcement learning for timely healthcare interventions (miss) | miss |
-| Agentbench: Evaluating llms as agents (miss) | miss |
-| Asynchronous decentralized federated lifelong learning for landmark localization in medical imaging (miss) | miss |
-| Beyond memorization: Violating privacy via inference with large language models (miss) | miss |
-| Camel: Communicative agents for" mind" exploration of large language model society (miss) | miss |
-| Clinically-inspired multi-agent transformers for disease trajectory forecasting from multimodal data (miss) | miss |
-| Cognitive architectures for language agents (miss) | miss |
-| Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum (miss) | miss |
-| Deep Imitation Learning for Automated Drop-In Gamma Probe Manipulation (miss) | miss |
-| Diaggpt: An llm-based and multi-agent dialogue system with automatic topic management for flexible task-oriented dialogue (miss) | miss |
-| Dspy: Compiling declarative language model calls into self-improving pipelines (miss) | miss |
-| Federated machine learning, privacy-enhancing technologies, and data protection laws in medical research: scoping review (miss) | miss |
-| Generative agents: Interactive simulacra of human behavior (miss) | miss |
-| Guiding pretraining in reinforcement learning with large language models (miss) | miss |
-| Identifying and Mitigating Bias in Medical LLMs (miss) | miss |
-| Interactive medical image segmentation with self-adaptive confidence calibration (miss) | miss |
-| Large language models as agents in the clinic (miss) | miss |
-| Lmrl gym: Benchmarks for multi-turn reinforcement learning with language models (miss) | miss |
-| MemGPT: Towards LLMs as Operating Systems. (miss) | miss |
-| MetaGPT: Meta programming for a multi-agent collaborative framework (miss) | miss |
-| Navigation Through Endoluminal Channels Using Q-Learning (miss) | miss |
-| PROFSA: SELF-SUPERVISED POCKET PRETRAINING VIA PROTEIN FRAGMENT-SURROUNDINGS ALIGN (miss) | miss |
-| Reflexion: Language agents with verbal reinforcement learning (miss) | miss |
-| Swe-bench: Can language models resolve real-world github issues? (miss) | miss |
-| Td-mpc2: Scalable, robust world models for continuous control (miss) | miss |
-| Temporally-extended prompts optimization for sam in interactive medical image segmentation (miss) | miss |
-| The NCI Imaging Data Commons as a platform for reproducible research in computational pathology (miss) | miss |
-| Towards Causality-Aware Inferring: A Sequential Discriminative Approach for Medical Diagnosis (miss) | miss |
-| Tree of Thoughts: Deliberate Problem Solving with Large Language Models (miss) | miss |
-| Webarena: A realistic web environment for building autonomous agents (miss) | miss |
+| [A reinforcement learning approach for VQA validation: An application to diabetic macular edema grading](https://arxiv.org/abs/2307.09886) | Not available |
+| [Adaptive multi-agent deep reinforcement learning for timely healthcare interventions](https://arxiv.org/abs/2309.10980) | Not available |
+| [Asynchronous decentralized federated lifelong learning for landmark localization in medical imaging](https://arxiv.org/abs/2303.06783) | Not available |
+| [Beyond memorization: Violating privacy via inference with large language models](https://arxiv.org/abs/2310.07298) | Not available |
+| [Camel: Communicative agents for" mind" exploration of large language model society](https://arxiv.org/abs/2303.17760) | Not available |
+| [Clinically-inspired multi-agent transformers for disease trajectory forecasting from multimodal data](https://arxiv.org/pdf/2210.13889) | https://github.com/imedslab/CLIMATv2 |
+| [Cognitive architectures for language agents](https://arxiv.org/abs/2309.02427) | Not available |
+| [Comparing Physician and Artificial Intelligence Chatbot Responses to Patient Questions Posted to a Public Social Media Forum](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2804309) | Not available |
+| [Deep Imitation Learning for Automated Drop-In Gamma Probe Manipulation](https://arxiv.org/abs/2304.14294) | Not available |
+| [Diaggpt: An llm-based and multi-agent dialogue system with automatic topic management for flexible task-oriented dialogue](https://arxiv.org/abs/2308.08043) | https://github.com/zzlang-c/DiagGPT |
+| [Dspy: Compiling declarative language model calls into self-improving pipelines](https://arxiv.org/abs/2310.03714) | https://github.com/stanfordnlp/dspy |
+| [Federated machine learning, privacy-enhancing technologies, and data protection laws in medical research: scoping review](https://www.jmir.org/2023/1/e41588/) | Not available |
+| [Generative agents: Interactive simulacra of human behavior](https://arxiv.org/abs/2304.03442) | https://github.com/joonspk-research/generative_agents |
+| [Interactive medical image segmentation with self-adaptive confidence calibration](https://arxiv.org/abs/2111.07716) | https://github.com/Chuyun-Shen/Interactive-Medical-Image-Segmentation-with-MARL |
+| [Large language models as agents in the clinic](https://arxiv.org/abs/2309.10895) | Not available |
+| [MemGPT: Towards LLMs as Operating Systems](https://arxiv.org/abs/2310.08560) | Not available |
+| [MetaGPT: Meta programming for a multi-agent collaborative framework](https://arxiv.org/abs/2308.00352) | https://github.com/FoundationAgents/MetaGPT |
+| [Navigation Through Endoluminal Channels Using Q-Learning](https://arxiv.org/abs/2309.03615) | Not available |
+| [PROFSA: SELF-SUPERVISED POCKET PRETRAINING VIA PROTEIN FRAGMENT-SURROUNDINGS ALIGN](https://arxiv.org/abs/2310.07229) | https://github.com/bowen-gao/ProFSA|
+| [Reflexion: Language agents with verbal reinforcement learning](https://arxiv.org/abs/2303.11366) | https://github.com/noahshinn/reflexion|
+| [Td-mpc2: Scalable, robust world models for continuous control](https://arxiv.org/abs/2310.16828) | https://github.com/nicklashansen/tdmpc2|
+| [Temporally-extended prompts optimization for sam in interactive medical image segmentation](https://arxiv.org/abs/2306.08958) | Not available |
+| [The NCI Imaging Data Commons as a platform for reproducible research in computational pathology](https://arxiv.org/abs/2303.09354) | Not available |
+| [Towards Causality-Aware Inferring: A Sequential Discriminative Approach for Medical Diagnosis](https://arxiv.org/abs/2003.06534) | Not available |
 
 ## Year-2022
 
@@ -446,6 +439,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
