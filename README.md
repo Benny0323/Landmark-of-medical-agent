@@ -135,7 +135,6 @@ If you have any questions or would like to engage with our community, feel free 
 | [Improving Interactive Diagnostic Ability of a Large Language Model Agent Through Clinical Experience Learning](https://arxiv.org/abs/2503.16463) | [GitHub](https://github.com/DanielSun94/ppme) |
 | [In prospect and retrospect: Reflective memory management for long-term personalized dialogue agents](https://arxiv.org/abs/2503.08026) | Not Available |
 | [In-Basket Message Volume in Primary Care: A Cross-sectional Analysis by Gender and Specialty](https://pubmed.ncbi.nlm.nih.gov/39843670/) | Not Available |
-| [Internbootcamp technical report: Boosting llm reasoning with verifiable task scaling](https://arxiv.org/abs/2508.08636) | [GitHub](https://github.com/InternLM/InternBootcamp) |
 | [KERAP: A Knowledge-Enhanced Reasoning Approach for Accurate Zero-shot Diagnosis Prediction Using Multi-agent LLMs](https://arxiv.org/abs/2507.02773) | [GitHub](https://github.com/constantjxyz/KERAP) |
 | [Large language models in real-world clinical workflows: a systematic review of applications and implementation](https://pubmed.ncbi.nlm.nih.gov/41098649/) | Not Available |
 | [Learning to be a doctor: Searching for effective medical agent architectures](https://arxiv.org/abs/2504.11301) | Not Available |
@@ -420,6 +419,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
