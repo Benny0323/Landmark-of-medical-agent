@@ -12,6 +12,8 @@ This is the official repository for the survey paper: **The Landscape of Medical
   <img src="./picture.png" alt="Overall Landscape" width="90%" />
 </p>
 
+We will try to keep this list updated. If you find any errors or any missed paper, please don't hesitate to open issues or pull requests.
+
 <p align="center">
   <img src="./Workflow2Agentic.png" alt="Overall Landscape" width="85%" />
 </p>
@@ -981,5 +983,6 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
