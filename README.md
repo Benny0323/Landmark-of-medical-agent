@@ -39,7 +39,7 @@ If you have any questions or would like to engage with our community, feel free 
   - [Year-2025](#Year-2025)
   - [Year-2024](#Year-2024)
   - [Year-2023](#Year-2023)
-  - [earlier](#earlier)
+  - [Earlier](#Earlier)
 # Latest Papers
 ## Year-2025
 
@@ -344,7 +344,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [The NCI Imaging Data Commons as a platform for reproducible research in computational pathology](https://arxiv.org/abs/2303.09354) | Not available | intro |
 | [Towards Causality-Aware Inferring: A Sequential Discriminative Approach for Medical Diagnosis](https://arxiv.org/abs/2003.06534) | Not available | capability, application |
 
-## earlier
+## Earlier
 
 | Title | GitHub | Sections |
 | --- | --- | --- |
@@ -399,5 +399,6 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
