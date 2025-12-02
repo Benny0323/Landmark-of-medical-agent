@@ -85,8 +85,8 @@ If you have any questions or would like to engage with our community, feel free 
     - [6.3 Challenge & Discussion](#23-Challenge--Discussion)
   - [7. Others](#7-Others)
 
-# Latest Papers
-## Year-2025
+## Latest Papers
+### Year-2025
 
 | Title | GitHub | Sections |
 | --- | --- | --- |
@@ -274,7 +274,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [Med-GRIM: Enhanced Zero-Shot Medical VQA using prompt-embedded Multimodal Graph RAG](https://arxiv.org/abs/2508.06496) | [GitHub](https://github.com/Rakesh-123-cryp/Med-GRIM) | application, other |
 | [How Can We Diagnose and Treat Bias in Large Language Models for Clinical Decision-Making?](https://arxiv.org/abs/2410.16574) | Not Available | evaluation |
 
-## Year-2024
+### Year-2024
 
 | Title | GitHub | Sections |
 | --- | --- | --- |
@@ -361,7 +361,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [FedAgentBench: Towards Automating Real-World Federated Medical Image Analysis with Server–Client LLM Agents](https://openreview.net/pdf?id=kCnokG3SfU) | Not available | evaluation |
 | [Evaluating large language models as agents in the clinic](https://www.semanticscholar.org/paper/Evaluating-large-language-models-as-agents-in-the-Mehandru-Miao/1700ce7976bb88e90796c96c344331282ecf9208) | | Not available | evaluation |
 
-## Year-2023
+### Year-2023
 
 | Title | GitHub | Sections |
 | --- | --- | --- |
@@ -389,7 +389,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [The NCI Imaging Data Commons as a platform for reproducible research in computational pathology](https://arxiv.org/abs/2303.09354) | Not available | intro |
 | [Towards Causality-Aware Inferring: A Sequential Discriminative Approach for Medical Diagnosis](https://arxiv.org/abs/2003.06534) | Not available | capability, application |
 
-## Earlier
+### Earlier
 
 | Title | GitHub | Sections |
 | --- | --- | --- |
@@ -428,8 +428,8 @@ If you have any questions or would like to engage with our community, feel free 
 | [Upper processing stages of the perception--action cycle](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(04)00047-6) | Not available | intro |
 | [What Disease Does This Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams](https://arxiv.org/abs/2009.13081) | [GitHub](https://github.com/jind11/MedQA) | evaluation |
 
-# Papers by Category
-## Intro
+## Papers by Category
+### Intro
 
 | Title | GitHub | Year |
 | --- | --- | --- |
@@ -459,7 +459,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [TxAgent: An AI agent for therapeutic reasoning across a universe of tools](https://arxiv.org/abs/2503.10970) | [GitHub](https://zitniklab.hms.harvard.edu/TxAgent/) | 2025 |
 | [Visual-Conversational Interface for Evidence-Based Explanation of Diabetes Risk Prediction](https://arxiv.org/pdf/2507.02920) | [GitHub](https://github.com/resamimi/diabetes-dashboard/) | 2025 |
 
-## Capability
+### Capability
 
 | Title | GitHub | Year |
 | --- | --- | --- |
@@ -606,7 +606,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [World Model for AI Autonomous Navigation in Mechanical Thrombectomy](https://arxiv.org/abs/2509.25518) | [GitHub](https://github.com/lkarstensen/stEVE) | 2025 |
 | [Zero-Shot Large Language Model Agents for Fully Automated Radiotherapy Treatment Planning](https://arxiv.org/pdf/2510.11754) | Not Available | 2025 |
 
-## Task
+### Task
 
 | Title | GitHub | Year |
 | --- | --- | --- |
@@ -697,7 +697,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [TxAgent: An AI agent for therapeutic reasoning across a universe of tools](https://arxiv.org/abs/2503.10970) | [GitHub](https://zitniklab.hms.harvard.edu/TxAgent/) | 2025 |
 | [World Model for AI Autonomous Navigation in Mechanical Thrombectomy](https://arxiv.org/abs/2509.25518) | [GitHub](https://github.com/lkarstensen/stEVE) | 2025 |
 
-## Application
+### Application
 
 | Title | GitHub | Year |
 | --- | --- | --- |
@@ -814,7 +814,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [World Model for AI Autonomous Navigation in Mechanical Thrombectomy](https://arxiv.org/abs/2509.25518) | [GitHub](https://github.com/lkarstensen/stEVE) | 2025 |
 | [Zero-Shot Large Language Model Agents for Fully Automated Radiotherapy Treatment Planning](https://arxiv.org/pdf/2510.11754) | Not Available | 2025 |
 
-## Safety
+### Safety
 
 | Title | GitHub | Year |
 | --- | --- | --- |
@@ -867,7 +867,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [Transforming healthcare delivery with conversational AI platforms](https://www.nature.com/articles/s41746-025-01968-6) | Not Available | 2025 |
 | [Tree-of-Reasoning: Towards Complex Medical Diagnosis via Multi-Agent Reasoning with Evidence Tree](https://arxiv.org/abs/2508.03038) | [GitHub](https://github.com/tsukiiiiiiiii/TOR) | 2025 |
 
-## Evaluation
+### Evaluation
 
 | Title | GitHub | Year |
 | --- | --- | --- |
@@ -926,7 +926,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [The evaluation illusion of large language models in medicine](https://www.nature.com/articles/s41746-025-01963-x) | Not Available | 2025 |
 | [Trustworthy Reasoning: Evaluating and Enhancing Factual Accuracy in LLM Intermediate Thought Processes](https://arxiv.org/pdf/2507.22940) | Not Available | 2025 |
 
-## Others
+### Others
 
 | Title | GitHub | Year |
 | --- | --- | --- |
@@ -1011,5 +1011,6 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 } 
+
 
 
