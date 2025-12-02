@@ -151,7 +151,6 @@ If you have any questions or would like to engage with our community, feel free 
 | [MedCoAct: Confidence-Aware Multi-Agent Collaboration for Complete Clinical Decision](https://arxiv.org/abs/2510.10461) | Not Available | capability, application |
 | [Meddxagent: A unified modular agent framework for explainable automatic differential diagnosis](https://arxiv.org/abs/2502.19175) | [GitHub](https://github.com/nec-research/meddxagent/blob/main/README.md) | other |
 | [MedFact: A Large-scale Chinese Dataset for Evidence-based Medical Fact-Checking of LLM Responses](https://arxiv.org/abs/2509.17436) | [GitHub](https://github.com/AshleyChenNLP/MedFact) | evaluation |
-| [Ensuring Safety and Trust: Analyzing the Risks of Large Language Models in Medicine](https://arxiv.org/abs/2411.14487) | [GitHub](https://medguard-llm.github.io/) | evaluation |
 | [Medhallu: A comprehensive benchmark for detecting medical hallucinations in large language models](https://arxiv.org/abs/2502.14302) | [GitHub](https://github.com/MedHallu/MedHallu) | safety |
 | [Mediator-guided multi-agent collaboration among open-source models for medical decision-making](https://arxiv.org/abs/2508.05996) | Not Available | task, other |
 | [Medical AI Consensus: A Multi-Agent Framework for Radiology Report Generation and Evaluation](https://arxiv.org/abs/2509.17353) | Not Available | capability, task |
@@ -224,6 +223,11 @@ If you have any questions or would like to engage with our community, feel free 
 | [Zero-Shot Large Language Model Agents for Fully Automated Radiotherapy Treatment Planning](https://arxiv.org/pdf/2510.11754) | Not Available | capability, application, other |
 | [Bias-Aware Agent: Enhancing Fairness in AI-Driven Knowledge Retrieval](https://arxiv.org/pdf/2503.21237) | [GitHub](https://github.com/SinghKaranbir/BiasAwareAgent) | safety |
 | [EMR-AGENT: Automating Cohort and Feature Extraction from EMR Databases](https://arxiv.org/pdf/2510.00549) | [GitHub](https://github.com/AITRICS/EMR-AGENT/tree/main) | capability, task, application |
+| [Colacare: Enhancing electronic health record modeling through large language model-driven multi-agent collaboration](https://arxiv.org/abs/2410.02551) | [GitHub](https://github.com/PKU-AICare/ColaCare) | capability, application |
+| [A Knowledge-driven Adaptive Collaboration of LLMs for Enhancing Medical Decision-making](https://arxiv.org/abs/2509.14998) | [GitHub](https://github.com/XiaoXiao-Woo/KAMAC) | capability, application |
+| [MeNTi: Bridging medical calculator and LLM agent with nested tool calling](https://arxiv.org/abs/2410.13610) | [GitHub](https://github.com/shzyk/MENTI) | capability, application |
+| [Med-GRIM: Enhanced Zero-Shot Medical VQA using prompt-embedded Multimodal Graph RAG](https://arxiv.org/abs/2508.06496) | [GitHub](https://github.com/Rakesh-123-cryp/Med-GRIM) | application, other |
+| [How Can We Diagnose and Treat Bias in Large Language Models for Clinical Decision-Making?](https://arxiv.org/abs/2410.16574) | Not Available | evaluation |
 
 ## Year-2024
 
@@ -241,7 +245,6 @@ If you have any questions or would like to engage with our community, feel free 
 | [AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator](https://arxiv.org/abs/2402.09742) | [GitHub](https://github.com/LibertFan/AI_Hospital) | capability, task, application, evaluation |
 | [Aligning Medical LLMs for Counterfactual Fairness](https://arxiv.org/abs/2408.12055) | [GitHub](https://github.com/healthylaife/FairAlignmentLLM) | safety |
 | [ArgMed-Agents: explainable clinical decision reasoning with LLM disscusion via argumentation schemes](https://arxiv.org/abs/2403.06294) | Not Available | capability, application |
-| [Transforming healthcare delivery with conversational AI platforms](https://www.nature.com/articles/s41746-025-01968-6) | Not Available | safety |
 | [Autohealth: Advanced llm-empowered wearable personalized medical butler for parkinson’s disease management](https://www.researchgate.net/profile/Shengjie-Zhai/publication/378203917_AutoHealth_Advanced_LLM-Empowered_Wearable_Personalized_Medical_Butler_for_Parkinson%27s_Disease_Management/links/6614599843f8df018de74e8c/AutoHealth-Advanced-LLM-Empowered-Wearable-Personalized-Medical-Butler-for-Parkinsons-Disease-Management.pdf) | Not Available | other |
 | [Autonomous artificial intelligence agents for clinical decision making in oncology](https://arxiv.org/pdf/2404.04667) | Not Available | capability, other |
 | [Benchmarking Large Language Models on Communicative Medical Coaching: A Dataset and a Novel System](https://arxiv.org/pdf/2402.05547) | [GitHub](https://github.com/songtao-x/Chatcoach) | capability, application |
@@ -275,10 +278,8 @@ If you have any questions or would like to engage with our community, feel free 
 | [Mdagents: An adaptive collaboration of llms for medical decision-making](https://arxiv.org/abs/2404.15155) | [GitHub](https://github.com/mitmedialab/MDAgents) | capability, task, application |
 | [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537) | [GitHub](https://github.com/gersteinlab/MedAgents) | capability, task, other |
 | [MedAide: Towards an Omni Medical Aide via Specialized {LLM}-based Multi-Agent Collaboration](https://arxiv.org/abs/2410.12532v2) | Not Available | capability |
-| [MedChain: Bridging the Gap Between LLM Agents and Clinical Practice through Interactive Sequential Benchmarking](2025.1O) | Not Available | capability, application, evaluation |
 | [Medco: Medical education copilots based on a multi-agent framework](https://arxiv.org/pdf/2408.12496) | Not Available | capability, task, application |
 | [MedChain: Bridging the Gap Between LLM Agents and Clinical Practice through Interactive Sequential Benchmarking](https://arxiv.org/abs/2412.01605) | [GitHub](https://github.com/ljwztc/MedChain) | capability, application, evaluation |
-| [Medco: Medical education copilots based on a multi-agent framework](https://arxiv.org/abs/2408.12496#:~:text=To%20address%20these%20limitations%2C%20we%20propose%20MEDCO%20%28Medical,specially%20developed%20to%20emulate%20real-world%20medical%20training%20environments.) | Not Available | capability, task, application |
 | [MedGen: An Explainable Multi-Agent Architecture for Clinical Decision Support through Multisource Knowledge Fusion](https://ieeexplore.ieee.org/document/10822186) | Not Available | capability, application |
 | [Medhalu: Hallucinations in responses to healthcare queries by large language models](https://openreview.net/forum?id=V1K8t5Cfey) | Not Available | safety |
 | [MedQA-CS: Benchmarking Large Language Models’ Clinical Skills Using an AI-SCE Framework](https://arxiv.org/abs/2410.01553) | [GitHub](https://github.com/bio-nlp/MedQA-CS) | evaluation |
@@ -292,7 +293,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [Piors: Personalized intelligent outpatient reception based on large language model with multi-agents medical scenario simulation](https://arxiv.org/abs/2411.13902) | [GitHub](https://github.com/FudanDISC/PIORS) | capability, task, application |
 | [Polaris: A safety-focused llm constellation architecture for healthcare](https://arxiv.org/abs/2403.13313) | Not Available | capability, application, evaluation |
 | [Privacy-Preserving Large Language Models: Mechanisms](https://arxiv.org/abs/2412.06113) | Not Available | safety |
-| [Proceedings of the 23rd Workshop on Biomedical Natural Language Processing](https://aclanthology.org/volumes/2024.bionlp-1/) | Not Available | capability, task, application |
+| [Advancing healthcare automation: Multi-agent system for medical necessity justification](https://aclanthology.org/volumes/2024.bionlp-1/) | Not Available | capability, task, application |
 | [RareAgents: Advancing Rare Disease Care through LLM-Empowered Multi-disciplinary Team](https://arxiv.org/abs/2412.12475) | Not Available | capability, application |
 | [RareAgents: Autonomous Multi-disciplinary Team for Rare Disease Diagnosis and Treatment](https://arxiv.org/abs/2412.12475) | Not Available | task, other |
 | [Regulator-manufacturer AI agents modeling: Mathematical feedback-driven multi-agent LLM framework](https://arxiv.org/abs/2411.15356) | Not available | capability, task, application |
@@ -312,6 +313,8 @@ If you have any questions or would like to engage with our community, feel free 
 | [UMass-BioNLP at MEDIQA-M3G 2024: DermPrompt--A Systematic Exploration of Prompt Engineering with GPT-4V for Dermatological Diagnosis](https://arxiv.org/abs/2404.17749) | [GitHub](https://github.com/parth166/M3G-ClinicalDermatology) | capability, other |
 | [Zodiac: A cardiologist-level llm framework for multi-agent diagnostics](https://arxiv.org/abs/2410.02026) | Not available | capability |
 | [OpenAI o1 System Card](https://arxiv.org/abs/2412.16720) | [GitHub](https://github.com/cognitivetech/llm-research-summaries/tree/main) | capability |
+| [FedAgentBench: Towards Automating Real-World Federated Medical Image Analysis with Server–Client LLM Agents](https://openreview.net/pdf?id=kCnokG3SfU) | Not available | evaluation |
+
 ## Year-2023
 
 | Title | GitHub | Sections |
@@ -377,6 +380,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [Assessing electronic note quality using the physician documentation quality instrument (PDQI-9)](https://pmc.ncbi.nlm.nih.gov/articles/PMC3347480/) | Not available | task |
 | [Privacy by design: The 7 foundational principles](https://student.cs.uwaterloo.ca/~cs492/papers/7foundationalprinciples_longer.pdf) | Not available | safety |
 | [Upper processing stages of the perception--action cycle](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(04)00047-6) | Not available | intro |
+| [What Disease Does This Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams](https://arxiv.org/abs/2009.13081) | [GitHub](https://github.com/jind11/MedQA) | evaluation |
 
 ## Acknowledgments
 
@@ -394,9 +398,3 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
-
-
-
-
-
-
