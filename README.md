@@ -44,19 +44,41 @@ If you have any questions or would like to engage with our community, feel free 
 
 ## Table of Contents
 
-- [Latest Papers](#latest-papers)
-  - [Year-2025](#Year-2025)
-  - [Year-2024](#Year-2024)
-  - [Year-2023](#Year-2023)
-  - [Earlier](#Earlier)
 - [Papers by Category](#Papers-by-Category)
-  - [Intro](#Intro)
-  - [Capability](#Capability)
-  - [Task](#Task)
-  - [Application](#Application)
-  - [Safety](#Safety)
-  - [Evaluation](#Evaluation)
-  - [Others](#Others)
+  - [1. Intro](#1-Intro)
+  - [2. Capability](#2-Capability)
+    - [2.1 Planning](#21-Planning)
+    - [2.2 Tool Use](#22-Tool-Use)
+    - [2.3 Memory](#23-Memory)
+    - [2.4 Planning](#24-Planning)
+    - [2.5 Self-Improvement](#25-Self-Improvement)
+    - [2.6 Planning](#26-Planning)
+    - [2.7 Reasoning](#27-Reasoning)
+    - [2.8 Perception](#28-Perception)
+  - [3. Atomic Function](#3-Atomic-Function)
+    - [3.1 Basic Technology Empowerment](#31-Basic-Technology-Empowerment)
+    - [3.2 Core Diagnostic & Therapeutic Assistance](#32-Core-Diagnostic--Therapeutic-Assistance)
+    - [3.3 Workflow & Documentation Optimization](#33-Workflow--Documentation-Optimization)
+  - [4. Application](#4-Application)
+    - [4.1 Intake & Clinical Dialogue](#41-Intake--Clinical-Dialogue)
+    - [4.2 Virtual MDT Teams & Multimodal Reasoning](#42-Virtual-MDT-Teams--Multimodal-Reasoning)
+    - [4.3 Treatment Procedures](#43-Treatment-Procedures)
+    - [4.4 Chronic Disease Management & Prescription Safety](#44-Chronic-Disease-Management--Prescription-Safety)
+    - [4.5 Documentation, Coding & Knowledge Infrastructure](#45-Documentation-Coding--Knowledge-Infrastructure)
+    - [4.6 Simulation & Support Systems](#46-Simulation--Support-Systems)
+    - [4.7 Regulation, Payer Workflows & Administrative Automation](#47-Regulation-Payer-Workflows--Administrative-Automation)
+  - [5. Safety](#5-Safety)
+    - [5.1 Medical Hallucination](#51-Medical-Hallucination)
+    - [5.2 Privacy & Data-Security](#52-Privacy--Data-Security)
+    - [5.3 Explainability & Transparency](#53-Explainability--Transparency)
+    - [5.4 Adversarial Security & Threat Modeling](#54-Adversarial-Security--Threat-Modeling)
+    - [5.5 AI Governance & Systemic Safety](#55-AI-Governance--Systemic-Safety)
+    - [5.6 Bias, Fairness & Accessibility](#56-Bias-Fairness--Accessibility)
+  - [6. Evaluation](#6-Evaluation)
+    - [6.1 Benchmarks](#61-Benchmarks)
+    - [6.2 Metrics](#22-Metrics)
+    - [6.3 Challenge & Discussion](#23-Challenge--Discussion)
+  - [7. Others](#7-Others)
 
 # Latest Papers
 ## Year-2025
@@ -984,3 +1006,4 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 } 
+
