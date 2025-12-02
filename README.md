@@ -47,7 +47,7 @@ If you have any questions or would like to engage with our community, feel free 
   - [Application](#Application)
   - [Safety](#Safety)
   - [Evaluation](#Evaluation)
-  - [Other](#Other)
+  - [Others](#Others)
 
 # Latest Papers
 ## Year-2025
@@ -890,7 +890,7 @@ If you have any questions or would like to engage with our community, feel free 
 | [The evaluation illusion of large language models in medicine](https://www.nature.com/articles/s41746-025-01963-x) | Not Available | 2025 |
 | [Trustworthy Reasoning: Evaluating and Enhancing Factual Accuracy in LLM Intermediate Thought Processes](https://arxiv.org/pdf/2507.22940) | Not Available | 2025 |
 
-## Other
+## Others
 
 | Title | GitHub | Year |
 | --- | --- | --- |
@@ -975,6 +975,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 }  
+
 
 
 
