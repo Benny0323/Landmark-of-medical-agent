@@ -431,7 +431,57 @@ If you have any questions or would like to engage with our community, feel free 
 # Papers by Category
 
 ## 1. Capability
+
 ### **1.1 Planning**
+
+| Title | GitHub | Year |
+| [Evaluating Large Language Models as Agents in the Clinic](https://arxiv.org/abs/2309.10895) | Not Available | 2024 |
+| [MedPAO: A Protocol-Driven Agent for Structuring Medical Reports](https://arxiv.org/abs/2510.04623) | [GitHub](https://github.com/MiRL-IITM/medpao-agent) | 2025 |
+| [Adaptable image quality assessment using meta-reinforcement learning of task amenability](https://arxiv.org/abs/2108.04359) | [GitHub](https://github.com/s-sd/task-amenability) | 2023 |
+| [World Model for AI Autonomous Navigation in Mechanical Thrombectomy](https://arxiv.org/abs/2509.25518) | [GitHub](https://github.com/lkarstensen/stEVE) | 2025 |
+| [Polaris: A safety-focused llm constellation architecture for healthcare](https://arxiv.org/abs/2403.13313) | Not Available | 2024 |
+| [MedChain: Bridging the Gap Between LLM Agents and Clinical Practice through Interactive Sequential Benchmarking](https://arxiv.org/abs/2412.01605) | [GitHub](https://github.com/ljwztc/MedChain) | 2024 |
+| [Rx strategist: Prescription verification using llm agents system](https://arxiv.org/abs/2409.03440) | Not Available | 2024 |
+| [A Flexible Schema-Guided Dialogue Management Framework: From Friendly Peer to Virtual Standardized Cancer Patient](https://arxiv.org/abs/2207.07276) | [GitHub](https://github.com/bkane2/eta-py) | 2023 |
+| [Surgbox: Agent-driven operating room sandbox with surgery copilot](https://arxiv.org/abs/2412.05187#:~:text=To%20address%20these%20cognitive%20challenges%20in%20surgical%20training,cognitive%20capabilities%20of%20surgeons%20in%20immersive%20surgical%20simulations.) | Not Available | 2024 |
+| [MedicalOS: An {LLM} Agent based Operating System for Digital Healthcare](https://arxiv.org/pdf/2509.11507) | Not Available | 2025 |
+| ["My Nose is Running." "Are You Also Coughing?": Building a Medical Diagnosis Agent with Interpretable Inquiry Logics](https://arxiv.org/abs/2204.13953) | [GitHub](https://github.com/lwgkzl/BR-Agent) | 2023 |
+| [Cross Modality 3D Navigation Using Reinforcement Learning and Neural Style Transfer](https://arxiv.org/abs/2111.03485) | Not Available | 2023 |
+| [Scalable Online Disease Diagnosis via Multi-Model-Fused Actor-Critic Reinforcement Learning](https://arxiv.org/abs/2206.03659) | Not Available | 2023 |
+| [AI Hospital: Benchmarking Large Language Models in a Multi-agent Medical Interaction Simulator](https://arxiv.org/abs/2402.09742) | [GitHub](https://github.com/LibertFan/AI_Hospital) | 2024 |
+| [Inquire, Interact, and Integrate: A Proactive Agent Collaborative Framework for Zero-Shot Multimodal Medical Reasoning](https://arxiv.org/pdf/2405.11640) | [GitHub](dongzizhu/multiMedRes) | 2024 |
+| [Llm-medqa: Enhancing medical question answering through case studies in large language models](https://arxiv.org/abs/2501.05464) | Not Available | 2024 |
+| [Medco: Medical education copilots based on a multi-agent framework](https://arxiv.org/pdf/2408.12496) | Not Available | 2024 |
+| [Mitigating cognitive biases in clinical decision-making through multi-agent conversations using large language models: simulation study](https://pubmed.ncbi.nlm.nih.gov/39561363/) | Not Available | 2024 |
+| [Regulator-manufacturer AI agents modeling: Mathematical feedback-driven multi-agent LLM framework](https://arxiv.org/abs/2411.15356) | Not Available | 2024 |
+| [Society of medical simplifiers](https://arxiv.org/abs/2410.09631) | [GitHub](https://github.com/cognitivetech/llm-research-summaries/blob/main/scientific-research/Society-Medical-Simplifiers-2410.09631.md) | 2024 |
+| [Towards Automatic Evaluation for {LLM}s' Clinical Capabilities: Metric, Data, and Algorithm](https://arxiv.org/abs/2403.16446) | Not Available | 2024 |
+| [Towards next-generation medical agent: How o1 is reshaping decision-making in medical scenarios](https://arxiv.org/abs/2411.14461) | Not Available | 2024 |
+| [A Knowledge-driven Adaptive Collaboration of LLMs for Enhancing Medical Decision-making](https://arxiv.org/abs/2509.14998) | [GitHub](https://github.com/XiaoXiao-Woo/KAMAC) | 2025 |
+| [A dual-agent collaboration framework based on llms for nursing robots to perform bimanual coordination tasks](https://ieeexplore.ieee.org/document/10852163) | Not Available | 2025 |
+| [Agentic Medical Knowledge Graphs Enhance Medical Question Answering: Bridging the Gap Between LLMs and Evolving Medical Knowledge](https://arxiv.org/abs/2502.13010) | [GitHub](https://github.com/MrRezaeiUofT/AMG-RAG) | 2025 |
+| [Agentic-AI Healthcare: Multilingual, Privacy-First Framework with {MCP} Agents](https://arxiv.org/abs/2510.02325) | [GitHub](https://github.com/M12Shehab/Agentic-AI-HealthCare) | 2025 |
+| [Autonomous Multi-Modal LLM Agents for Treatment Planning in Focused Ultrasound Ablation Surgery](https://arxiv.org/abs/2505.21418) | [GitHub](https://anonymous.4open.science/r/FUAS-7D56) | 2025 |
+| [Colacare: Enhancing electronic health record modeling through large language model-driven multi-agent collaboration](https://arxiv.org/abs/2410.02551) | [GitHub](https://github.com/PKU-AICare/ColaCare) | 2025 |
+| [Haibu Mathematical-Medical Intelligent Agent: Enhancing Large Language Model Reliability in Medical Tasks via Verifiable Reasoning Chains](https://arxiv.org/abs/2510.07748) | Not Available | 2025 |
+| [Improving Interactive Diagnostic Ability of a Large Language Model Agent Through Clinical Experience Learning](https://arxiv.org/abs/2503.16463) | [GitHub](https://github.com/DanielSun94/ppme) | 2025 |
+| [Learning to be a doctor: Searching for effective medical agent architectures](https://arxiv.org/abs/2504.11301) | Not Available | 2025 |
+| [MeNTi: Bridging medical calculator and LLM agent with nested tool calling](https://arxiv.org/abs/2410.13610) | [GitHub](https://github.com/shzyk/MENTI) | 2025 |
+| [OpenLens AI: Fully Autonomous Research Agent for Health Infomatics](https://arxiv.org/pdf/2509.14778) | [GitHub](https://github.com/jarrycyx/openlens-ai) | 2025 |
+| [Talk Before You Retrieve: Agent-Led Discussions for Better RAG in Medical QA](https://arxiv.org/abs/2504.21252) | [GitHub](https://github.com/LLM-VLM-GSL/Discuss-RAG) | 2025 |
+| [Tree-based RAG-Agent Recommendation System: A Case Study in Medical Test Data](https://arxiv.org/abs/2501.02727) | Not Available | 2025 |
+| [AI chatbots as professional service agents: developing a professional identity](https://arxiv.org/abs/2501.14179) | Not Available | 2025 |
+| [A reinforcement learning approach for VQA validation: An application to diabetic macular edema grading](https://arxiv.org/abs/2307.09886) | Not Available | 2023 |
+| [Building an {ASR} Error Robust Spoken Virtual Patient System in a Highly Class-Imbalanced Scenario Without Speech Data](https://arxiv.org/abs/2204.05183) | Not Available | 2023 |
+| [MedMCQA: A Large-scale Multi-Subject Multi-Choice Dataset for Medical Domain Question Answering](https://arxiv.org/abs/2203.14371) | [GitHub](https://github.com/medmcqa/medmcqa) | 2023 |
+| [Multi-agent searching system for medical information](https://arxiv.org/abs/2203.12465) | Not Available | 2023 |
+| [A demonstration of adaptive collaboration of large language models for medical decision-making](https://arxiv.org/abs/2411.00248) | [GitHub](https://mdagents2024.github.io/) | 2024 |
+| [Agentic llm workflows for generating patient-friendly medical reports](https://arxiv.org/abs/2408.01112) | [GitHub](http://github.com/malavikhasudarshan/Multi-Agent-Patient-Letter-Generation) | 2024 |
+| [Agentigraph: An interactive knowledge graph platform for llm-based chatbots utilizing private data](https://arxiv.org/html/2410.11531v1) | [GitHub](https://github.com/SinketsuZao/AGENTiGraph/tree/main) | 2024 |
+| [Improving Clinical Documentation with AI: A Comparative Study of Sporo AI Scribe and GPT-4o mini](https://arxiv.org/abs/2410.15528) | Not Available | 2024 |
+| [Piors: Personalized intelligent outpatient reception based on large language model with multi-agents medical scenario simulation](https://arxiv.org/abs/2411.13902) | [GitHub](https://github.com/FudanDISC/PIORS) | 2024 |
+| [SmartState: An Automated Research Protocol Adherence System](https://arxiv.org/abs/2305.04411) | [GitHub](https://github.com/Kentucky-Open-Science/SmartState-public) | 2025 |
+
 ### **1.2 Tool Use**
 ### **1.3 Memory**
 ### **1.4 Planning**
@@ -485,6 +535,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 } 
+
 
 
 
