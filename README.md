@@ -788,6 +788,7 @@ If you have any questions or would like to engage with our community, feel free 
 
 | Title | GitHub | Year |
 | --- | --- | --- |
+| [Med-CMR: A Fine-Grained Benchmark Integrating Visual Evidence and Clinical Logic for Medical Complex Multimodal Reasoning](https://arxiv.org/pdf/2512.00818) | [GitHub](https://github.com/LsmnBmnc/Med-CMR) | 2025 |
 | [A Dataset of Clinically Generated Visual Questions and Answers About Radiology Images](https://www.nature.com/articles/sdata2018251) | Not Available | 2023 |
 | [Measuring Massive Multitask Language Understanding](https://arxiv.org/abs/2009.03300) | [GitHub](https://github.com/hendrycks/test) | 2023 |
 | [MedDG: An Entity-Centric Medical Consultation Dataset for Entity-Aware Medical Dialogue Generation](https://arxiv.org/abs/2010.07497) | [GitHub](https://github.com/lwgkzl/MedDG) | 2023 |
@@ -918,5 +919,3 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 } 
-
-
