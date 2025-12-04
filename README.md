@@ -89,6 +89,7 @@ If you have any questions or would like to engage with our community, feel free 
 
 | Title | GitHub | Sections |
 | --- | --- | --- |
+| [Med-CMR: A Fine-Grained Benchmark Integrating Visual Evidence and Clinical Logic for Medical Complex Multimodal Reasoning](https://arxiv.org/pdf/2512.00818) | [GitHub](https://github.com/LsmnBmnc/Med-CMR) | evaluation |
 | [3mdbench: Medical multimodal multi-agent dialogue benchmark](https://arxiv.org/abs/2504.13861) | [GitHub](https://github.com/univanxx/3mdbench) | evaluation |
 | [A co-evolving agentic AI system for medical imaging analysis](https://arxiv.org/abs/2509.20279) | [GitHub](https://github.com/zhihuanglab/TissueLab) | other |
 | [A dual-agent collaboration framework based on llms for nursing robots to perform bimanual coordination tasks](https://ieeexplore.ieee.org/document/10852163) | Not Available | capability |
@@ -917,4 +918,5 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 } 
+
 
