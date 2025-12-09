@@ -3,15 +3,16 @@
 </div>
 
 <div align="center">
+  <img src="./icon.png" alt="NUS Logo" width="100px">
+</div>
+
+<div align="center">
   <a href="https://nus-project.github.io/Landmark-of-medical-agent/"><img src="https://img.shields.io/badge/Project-Page-green" alt="Project Page"></a>
   <a href="https://www.xiaohongshu.com/explore/6932a30d000000001902420d?xsec_token=AB0xZVgbQHO9HKn4ZoGvEcC-OOJPtbIf6ut-pjRl3Oo3E=&xsec_source=pc_search&source=unknown"><img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E7%AC%94%E8%AE%B0-red" alt="Xiaohongshu"></a>
   <a href="https://github.com/NUS-Project/Landmark-of-medical-agent/stargazers"><img src="https://img.shields.io/github/stars/NUS-Project/Landmark-of-medical-agent?style=social" alt="GitHub stars"></a>
   <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
 </a>
 </div>
-
-This is the official repository for the survey paper: The Landscape of Medical Agents.
-This repository is a comprehensive and systematic research resource library for medical agents, dedicated to organizing and tracking the latest research progress, application practices, and technological developments of AI intelligent agents in the medical and health field. This investigative project covers the entire ecosystem from basic technical capabilities to clinical actual deployment, providing an authoritative research map for medical AI researchers, clinical practitioners, and system developers.
 
 <!-- [**ArXiv – https://arxiv.org/abs/2506.04405**](https://arxiv.org/abs/2506.04405)
 
@@ -20,36 +21,36 @@ This repository is a comprehensive and systematic research resource library for 
   <img src="./picture.png" alt="Overall Landscape" style="max-width: 100%; height: auto;" />
 </p>
 
-We will try to keep this list updated. If you find any errors or any missed paper, please don't hesitate to open issues or pull requests.
-
 <p align="center">
   <img src="./Workflow2Agentic.png" alt="Overall Landscape" width="95%" />
 </p>
 
-## Keywords
+## 🌟 Overview
+
+This is the official repository for the survey paper: The Landscape of Medical Agents.
+This repository is a comprehensive and systematic research resource library for medical agents, dedicated to organizing and tracking the latest research progress, application practices, and technological developments of AI intelligent agents in the medical and health field. This investigative project covers the entire ecosystem from basic technical capabilities to clinical actual deployment, providing an authoritative research map for medical AI researchers, clinical practitioners, and system developers.
+
+## 📖 Keywords
 
 Medical Agents, Clinical Workflows, Safety, Governance and Evaluation
 
-## Date
+## 🔥 News
 
-November 30th, 2025
+**[2025/11/30]** We release the initial version!
 
-## Code Repository
+## 🤝 Contact 
 
-[**GitHub - https://github.com/NUS-Project/Landmark-of-medical-agent**](https://github.com/NUS-Project/Landmark-of-medical-agent) 
-
-## Contact 
-If you have any questions or would like to engage with our community, feel free to scan the QR code below to join our WeChat group.
+We will try to keep this list updated. If you find any errors or any missed paper, please don't hesitate to open issues or pull requests.Please follow the instruction in CONTRIBUTING.md if you want to make one. Additionally, if you want to have any other issue, please add this wechat group.
 
 <p align="center">
   <img src="./qun.jpg" alt="" width="40%" />
 </p>
 
-## Main Contacts
+## 🤝 Main Contacts
 
 - Xiaobin Hu - ben0xiaobin0hu1@nus.edu.sg
 
-## Table of Contents
+## 🌟 Table of Contents
 
 - [Latest Papers](#latest-papers)
   - [Year-2025](#Year-2025)
@@ -926,6 +927,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 } 
+
 
 
 
