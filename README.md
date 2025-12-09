@@ -32,7 +32,7 @@ Medical Agents, Clinical Workflows, Safety, Governance and Evaluation
 
 ## 🔥 News
 
-**[2025/11/30]** We release the initial version!
+**[2025/11/30]** We release the initial github  repo!
 
 ## 🤝 Contact 
 
@@ -88,8 +88,8 @@ We will try to keep this list updated. If you find any errors or any missed pape
   - [6. Communication & Collaboration Mechanisms](#6-Communication--Collaboration-Mechanisms)
   - [7. Others](#7-Others)
 
-# Latest Papers
-## Year-2025
+# ✨ Latest Papers
+## 🚀 Year-2025
 
 | Title | GitHub | Sections |
 | --- | --- | --- |
@@ -278,7 +278,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Med-GRIM: Enhanced Zero-Shot Medical VQA using prompt-embedded Multimodal Graph RAG](https://arxiv.org/abs/2508.06496) | [GitHub](https://github.com/Rakesh-123-cryp/Med-GRIM) | application, other |
 | [How Can We Diagnose and Treat Bias in Large Language Models for Clinical Decision-Making?](https://arxiv.org/abs/2410.16574) | Not Available | evaluation |
 
-## Year-2024
+## 🚀 Year-2024
 
 | Title | GitHub | Sections |
 | --- | --- | --- |
@@ -365,7 +365,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [FedAgentBench: Towards Automating Real-World Federated Medical Image Analysis with Server–Client LLM Agents](https://openreview.net/pdf?id=kCnokG3SfU) | Not available | evaluation |
 | [Evaluating large language models as agents in the clinic](https://www.semanticscholar.org/paper/Evaluating-large-language-models-as-agents-in-the-Mehandru-Miao/1700ce7976bb88e90796c96c344331282ecf9208) | | Not available | evaluation |
 
-## Year-2023
+## 🚀 Year-2023
 
 | Title | GitHub | Sections |
 | --- | --- | --- |
@@ -393,7 +393,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [The NCI Imaging Data Commons as a platform for reproducible research in computational pathology](https://arxiv.org/abs/2303.09354) | Not available | intro |
 | [Towards Causality-Aware Inferring: A Sequential Discriminative Approach for Medical Diagnosis](https://arxiv.org/abs/2003.06534) | Not available | capability, application |
 
-## Earlier
+## 🚀 Earlier
 
 | Title | GitHub | Sections |
 | --- | --- | --- |
@@ -432,9 +432,9 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Upper processing stages of the perception--action cycle](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(04)00047-6) | Not available | intro |
 | [What Disease Does This Patient Have? A Large-scale Open Domain Question Answering Dataset from Medical Exams](https://arxiv.org/abs/2009.13081) | [GitHub](https://github.com/jind11/MedQA) | evaluation |
 
-# Papers by Category
+# ✨ Papers by Category
 
-## 1. Capability
+## 🚀 1. Capability
 
 ### **1.1 Planning**
 
@@ -606,7 +606,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Benchmarking Large Language Models on Communicative Medical Coaching: A Dataset and a Novel System](https://arxiv.org/pdf/2402.05547) | [GitHub](https://github.com/songtao-x/Chatcoach) | 2024 |
 | [Tiered Agentic Oversight: A Hierarchical Multi-Agent System for AI Safety in Healthcare](https://arxiv.org/abs/2506.12482) | [GitHub](https://github.com/tiered-agentic-oversight/tao) | 2025 |
 
-## 2. Atomic Function
+## 🚀 2. Atomic Function
 
 ### **2.1 Basic Technology Empowerment**
 
@@ -650,7 +650,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Towards interpretable radiology report generation via concept bottlenecks using a multi-agentic rag](https://arxiv.org/html/2412.16086v1) | [GitHub](https://github.com/tifat58/IRR-with-CBM-RAG) | 2025 |
 | [An Agentic Model Context Protocol Framework for Medical Concept Standardization](https://arxiv.org/abs/2509.03828) | [GitHub](https://github.com/OHNLP/omop_mcp) | 2025 |
 
-## 3. Application
+## 🚀 3. Application
 
 ### **3.1 Intake & Clinical Dialogue**
 
@@ -711,7 +711,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Enhancing diagnostic accuracy through multi-agent conversations: using large language models to mitigate cognitive bias](https://arxiv.org/abs/2401.14589) | Not Available | 2024 |
 | [A hybrid reinforcement learning and knowledge graph framework for financial risk optimization in healthcare systems](https://www.nature.com/articles/s41598-025-14355-8) | Not Available | 2025 |
 
-## 4. Safety
+## 🚀 4. Safety
 
 ### **4.1 Medical Hallucination**
 
@@ -786,7 +786,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Conversational health agents: a personalized large language model-powered agent framework](https://arxiv.org/pdf/2310.02374) | [GitHub](https://github.com/Institute4FutureHealth/CHA) | 2025 |
 | [Transforming healthcare delivery with conversational AI platforms](https://www.nature.com/articles/s41746-025-01968-6) | Not Available | 2025 |
 
-## 5. Evaluation
+## 🚀 5. Evaluation
 
 ### **5.1 Benchmarks**
 
@@ -843,7 +843,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Rapidly benchmarking large language models for diagnosing comorbid patients: comparative study leveraging the LLM-as-a-judge method](https://pubmed.ncbi.nlm.nih.gov/40880236/) | Not Available | 2025 |
 | [The evaluation illusion of large language models in medicine](https://www.nature.com/articles/s41746-025-01963-x) | Not Available | 2025 |
 
-## 6. Communication & Collaboration Mechanisms
+## 🚀 6. Communication & Collaboration Mechanisms
 
 | Title | GitHub | Year |
 | --- | --- | --- |
@@ -858,7 +858,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Towards conversational diagnostic artificial intelligence](https://www.nature.com/articles/s41586-025-08866-7) | Not Available | 2025 |
 | [Smile: Single-turn to multi-turn inclusive language expansion via chatgpt for mental health support](https://arxiv.org/abs/2305.00450#:~:text=To%20address%20these%20challenges%2C%20we%20introduce%20SMILE%2C%20a,to%20rewrite%20public%20single-turn%20dialogues%20into%20multi-turn%20ones.) | Not Available | 2024 |
 
-## 7. Others
+## 🚀 7. Others
 
 | Title | GitHub | Year |
 | --- | --- | --- |
@@ -907,27 +907,10 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Tool learning with large language models: A survey](https://arxiv.org/abs/2405.17935) | [GitHub](https://github.com/quchangle1/LLM-Tool-Survey) | 2025 |
 
 
-## Acknowledgments
-
-The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing Liu,Xiaozhong Ji,Tang Peng,Chengming Xu,Jiawei Liu,Xiaoxiao Yan,Xinlei Yu,Guibin Zhang,Xiaomin Yu,Yue Liao,Jiazhen Pan,Zhe Xu,Bailiang Jian,Kai Wu,Jiangning Zhang,Shanghua Gao,Zuxuan Wu,Yanwei Fu,Hongwei Bran Li,Menze Bjoern,Yu-Gang Jiang,Daniel Rueckert and Shuicheng Yan.
-
 ## Citation
 
 ```bibtex  
 @misc{,  
       title={The Landscape of Medical Agents: A Survey},   
-      author={},  
-      year={2025},  
-      eprint={},  
-      archivePrefix={arXiv},  
-      primaryClass={cs.AI},  
-      url={},   
+
 } 
-
-
-
-
-
-
-
-
