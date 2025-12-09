@@ -3,11 +3,18 @@
 </div>
 
 <div align="center">
-  <a href="https://nus-project.github.io/Landmark-of-medical-agent/"><img src="https://img.shields.io/badge/Project-Page-green" alt="Project Page"></a>
-  <a href="https://www.xiaohongshu.com/explore/6932a30d000000001902420d?xsec_token=AB0xZVgbQHO9HKn4ZoGvEcC-OOJPtbIf6ut-pjRl3Oo3E=&xsec_source=pc_search&source=unknown"><img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E7%AC%94%E8%AE%B0-red" alt="Xiaohongshu"></a>
-  <a href="https://github.com/NUS-Project/Landmark-of-medical-agent/stargazers"><img src="https://img.shields.io/github/stars/NUS-Project/Landmark-of-medical-agent?style=social" alt="GitHub stars"></a>
-  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
-</a>
+  <a href="https://nus-project.github.io/Landmark-of-medical-agent/">
+    <img src="https://img.shields.io/badge/Project-Page-green" alt="Project Page">
+  </a>
+  <a href="https://www.xiaohongshu.com/explore/6932a30d000000001902420d?xsec_token=AB0xZVgbQHO9HKn4ZoGvEcC-OOJPtbIf6ut-pjRl3Oo3E=&xsec_source=pc_search&source=unknown">
+    <img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E7%AC%94%E8%AE%B0-red" alt="Xiaohongshu">
+  </a>
+  <a href="https://github.com/NUS-Project/Landmark-of-medical-agent/stargazers">
+    <img src="https://img.shields.io/github/stars/NUS-Project/Landmark-of-medical-agent?style=social" alt="GitHub stars">
+  </a>
+  <a href="CONTRIBUTING.md">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome">
+  </a>
 </div>
 
 <!-- [**ArXiv – https://arxiv.org/abs/2506.04405**](https://arxiv.org/abs/2506.04405)
@@ -918,4 +925,5 @@ We will try to keep this list updated. If you find any errors or any missed pape
       title={The Landscape of Medical Agents: A Survey},   
 
 } 
+
 
