@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>The Landscape of Medical Agents: A Survey</h1>
+  <h1> 🚀 The Landscape of Medical Agents: A Survey</h1>
 </div>
 
 <div align="center">
@@ -926,6 +926,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 } 
+
 
 
 
