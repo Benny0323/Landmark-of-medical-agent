@@ -26,6 +26,10 @@
 This is the official repository for the survey paper: The Landscape of Medical Agents.
 This repository is a comprehensive and systematic research resource library for medical agents, dedicated to organizing and tracking the latest research progress, application practices, and technological developments of AI intelligent agents in the medical and health field. This investigative project covers the entire ecosystem from basic technical capabilities to clinical actual deployment, providing an authoritative research map for medical AI researchers, clinical practitioners, and system developers.
 
+## 🤝 Thanks
+
+If you think this project is useful and inspiring, we would greatly appreciate it if you could give us a Star to show your support! Your support is of great significance to us, as it encourages us to continue improving and developing this project.
+
 ## 📖 Keywords
 
 Medical Agents, Clinical Workflows, Safety, Governance and Evaluation
@@ -34,9 +38,9 @@ Medical Agents, Clinical Workflows, Safety, Governance and Evaluation
 
 **[2025/11/30]** We release the initial github  repo!
 
-## 🤝 Contact 
+## 🌟 Contributing 
 
-We will try to keep this list updated. If you find any errors or any missed paper, please don't hesitate to open issues or pull requests.Please follow the instruction in CONTRIBUTING.md if you want to make one. Additionally, if you want to have any other issue, please add this wechat group.
+We will try to keep this list updated. If you find any errors or any missed paper, please don't hesitate to **open issues** or **pull request**.Please follow the instruction in **CONTRIBUTING.md** if you want to make one. Additionally, if you want to have any other issue, please add this **wechat group**.
 
 <p align="center">
   <img src="./qun.jpg" alt="" width="40%" />
@@ -914,3 +918,4 @@ We will try to keep this list updated. If you find any errors or any missed pape
       title={The Landscape of Medical Agents: A Survey},   
 
 } 
+
