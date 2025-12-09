@@ -1,7 +1,18 @@
-# The Landscape of Medical Agents: A Survey
+<div align="center">
+  <h1>The Landscape of Medical Agents: A Survey</h1>
+</div>
 
-![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
-[![Star on GitHub](https://img.shields.io/github/stars/NUS-Project/Landmark-of-medical-agent?style=social)](https://github.com/NUS-Project/Landmark-of-medical-agent)
+<div align="center">
+  <img src="./icon.png" alt="NUS Logo" width="100px">
+</div>
+
+<div align="center">
+  <a href="https://nus-project.github.io/Landmark-of-medical-agent/"><img src="https://img.shields.io/badge/Project-Page-green" alt="Project Page"></a>
+  <a href="https://www.xiaohongshu.com/explore/6932a30d000000001902420d?xsec_token=AB0xZVgbQHO9HKn4ZoGvEcC-OOJPtbIf6ut-pjRl3Oo3E=&xsec_source=pc_search&source=unknown"><img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E7%AC%94%E8%AE%B0-red" alt="Xiaohongshu"></a>
+  <a href="https://github.com/NUS-Project/Landmark-of-medical-agent/stargazers"><img src="https://img.shields.io/github/stars/NUS-Project/Landmark-of-medical-agent?style=social" alt="GitHub stars"></a>
+  <a href="CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs welcome"></a>
+</a>
+</div>
 
 This is the official repository for the survey paper: The Landscape of Medical Agents.
 This repository is a comprehensive and systematic research resource library for medical agents, dedicated to organizing and tracking the latest research progress, application practices, and technological developments of AI intelligent agents in the medical and health field. This investigative project covers the entire ecosystem from basic technical capabilities to clinical actual deployment, providing an authoritative research map for medical AI researchers, clinical practitioners, and system developers.
@@ -919,6 +930,7 @@ The authors of the survey paper are Xiaobin Hu,Yunhang Qian,Jiaquan Yu,Jingjing 
       primaryClass={cs.AI},  
       url={},   
 } 
+
 
 
 
