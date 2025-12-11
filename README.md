@@ -3,6 +3,9 @@
 </div>
 
 <div align="center">
+   <a href="https://github.com/NUS-Project/Landmark-of-medical-agent/tree/main">  
+    <img src="https://img.shields.io/badge/GitHub-Page-blue" alt="GitHub Page">  
+  </a>
   <a href="https://nus-project.github.io/Landmark-of-medical-agent/">
     <img src="https://img.shields.io/badge/Project-Page-green" alt="Project Page">
   </a>
@@ -925,5 +928,6 @@ We will try to keep this list updated. If you find any errors or any missed pape
       title={The Landscape of Medical Agents: A Survey},   
 
 } 
+
 
 
