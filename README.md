@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/GitHub-Page-blue" alt="GitHub Page">  
   </a>
   <a href="https://nus-project.github.io/Landmark-of-medical-agent/">
-    <img src="https://img.shields.io/badge/Project-Page-green" alt="Web Page">
+    <img src="https://img.shields.io/badge/Web-Page-green" alt="Web Page">
   </a>
   <a href="https://www.xiaohongshu.com/explore/6932a30d000000001902420d?xsec_token=AB0xZVgbQHO9HKn4ZoGvEcC-OOJPtbIf6ut-pjRl3Oo3E=&xsec_source=pc_search&source=unknown">
     <img src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%E7%AC%94%E8%AE%B0-red" alt="Xiaohongshu">
@@ -928,6 +928,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
       title={The Landscape of Medical Agents: A Survey},   
 
 } 
+
 
 
 
