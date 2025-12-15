@@ -36,7 +36,7 @@
 
 ## 🌟 Overview
 
-This is the official repository for the survey paper: The Landscape of Medical Agents.
+This is the official repository for the survey paper: [The Landscape of Medical Agents](https://github.com/NUS-Project/Landmark-of-medical-agent/blob/main/The_Landscape_of_Medical_Agents__A_Survey.pdf).
 This repository is a comprehensive and systematic research resource library for medical agents, dedicated to organizing and tracking the latest research progress, application practices, and technological developments of AI intelligent agents in the medical and health field. This investigative project covers the entire ecosystem from basic technical capabilities to clinical actual deployment, providing an authoritative research map for medical AI researchers, clinical practitioners, and system developers.
 
 ## 🤝 Thanks
@@ -931,6 +931,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
       title={The Landscape of Medical Agents: A Survey},   
 
 } 
+
 
 
 
