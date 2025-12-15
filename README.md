@@ -3,6 +3,9 @@
 </div>
 
 <div align="center">
+  <a href="https://doi.org/10.36227/techrxiv.176581395.56964766/v1">  
+    <img src="https://img.shields.io/badge/Download-TexRxiv-ff69b4" alt="TechRxiv Download">  
+  </a> 
    <a href="https://github.com/NUS-Project/Landmark-of-medical-agent/tree/main">  
     <img src="https://img.shields.io/badge/GitHub-Page-blue" alt="GitHub Page">  
   </a>
@@ -928,6 +931,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
       title={The Landscape of Medical Agents: A Survey},   
 
 } 
+
 
 
 
