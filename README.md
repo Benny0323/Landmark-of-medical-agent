@@ -926,15 +926,16 @@ We will try to keep this list updated. If you find any errors or any missed pape
 
 ## Citation
 ```
- @article{Hu_2025,
-title={The Landscape of Medical Agents: A Survey},
-url={http://dx.doi.org/10.36227/techrxiv.176581395.56964766/v1},
-DOI={10.36227/techrxiv.176581395.56964766/v1},
-publisher={Institute of Electrical and Electronics Engineers (IEEE)},
-author={Hu, Xiaobin and Qian, Yunhang and Yu, Jiaquan and Liu, Jingjing and Tang, Peng and Ji, Xiaozhong and Xu, Chengming and Liu, Jiawei and Yan, Xiaoxiao and Yu, Xinlei and Zhang, Guibin and Yu, Xiaomin and Liao, Yue and Pan, Jiazhen and Xu, Zhe and Jian, Bailiang and Wu, Kai and Zhang, Jiangning and Gao, Shanghua and Wu, Zuxuan and Fu, Yanwei and Li, Hongwei Bran and Menze, Bjoern and Jiang, Yu-Gang and Rueckert, Daniel and Yan, Shuicheng},
-year={2025},
-month=dec }
+ @article{hu2025landscape,
+  title={The Landscape of Medical Agents: A Survey},
+  author={Hu, Xiaobin and Qian, Yunhang and Yu, Jiaquan and Liu, Jingjing and Tang, Peng and Ji, Xiaozhong and Xu, Chengming and Liu, Jiawei and Yan, Xiaoxiao and Yu, Xinlei and others},
+  journal={Landscape},
+  volume={16},
+  pages={6},
+  year={2025}
+}
 ```
+
 
 
 
