@@ -39,6 +39,14 @@
 This is the official repository for the survey paper: [The Landscape of Medical Agents](https://doi.org/10.36227/techrxiv.176581395.56964766/v1).
 This repository is a comprehensive and systematic research resource library for medical agents, dedicated to organizing and tracking the latest research progress, application practices, and technological developments of AI intelligent agents in the medical and health field. This investigative project covers the entire ecosystem from basic technical capabilities to clinical actual deployment, providing an authoritative research map for medical AI researchers, clinical practitioners, and system developers.
 
+## 🔥 Add Your Paper in our Repo and Survey!!!!! Join our group and post your agent work!!!!
+
+[-] You are welcome to give us an issue or PR for your medical agent work !!!!!
+
+[-] Note that: Due to the huge paper in Arxiv, we are sorry to cover all in our survey. You can directly present a PR into this repo and we will record it for next version update of our survey.
+
+[-] Our survey will be updated in 2025.3.
+
 ## 🤝 Thanks
 
 If you think this project is useful and inspiring, we would greatly appreciate it if you could give us a Star to show your support! Your support is of great significance to us, as it encourages us to continue improving and developing this project.
@@ -48,13 +56,6 @@ If you think this project is useful and inspiring, we would greatly appreciate i
 Medical Agents, Clinical Workflows, Safety, Governance and Evaluation
 
 ## 🔥 News
-🔥Add Your Paper in our Repo and Survey!!!!! Join our group and post your agent work!!!!
-
-[-] You are welcome to give us an issue or PR for your medical agent work !!!!!
-
-[-] Note that: Due to the huge paper in Arxiv, we are sorry to cover all in our survey. You can directly present a PR into this repo and we will record it for next version update of our survey.
-
-[-] Our survey will be updated in 2025.3.
 
 **[2025/11/30]** We release the initial github  repo!
 
@@ -945,6 +946,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
   publisher={Authorea}
 }
 ```
+
 
 
 
