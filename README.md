@@ -114,6 +114,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [3mdbench: Medical multimodal multi-agent dialogue benchmark](https://arxiv.org/abs/2504.13861) | [GitHub](https://github.com/univanxx/3mdbench) | evaluation |
 | [A co-evolving agentic AI system for medical imaging analysis](https://arxiv.org/abs/2509.20279) | [GitHub](https://github.com/zhihuanglab/TissueLab) | other |
 | [A multimodal AI agent for clinical decision support in ophthalmology](https://arxiv.org/pdf/2511.09394) | Not Available | application |
+| [MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow](https://arxiv.org/pdf/2503.18968) | [GitHub](https://github.com/jinlab-imvr/medagent-pro) | application |
 | [A dual-agent collaboration framework based on llms for nursing robots to perform bimanual coordination tasks](https://ieeexplore.ieee.org/document/10852163) | Not Available | capability |
 | [A framework to assess clinical safety and hallucination rates of LLMs for medical text summarisation](https://www.nature.com/articles/s41746-025-01670-7) | Not Available | safety, evaluation |
 | [A hybrid reinforcement learning and knowledge graph framework for financial risk optimization in healthcare systems](https://www.nature.com/articles/s41598-025-14355-8) | Not Available | application |
@@ -937,6 +938,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
   publisher={Authorea}
 }
 ```
+
 
 
 
