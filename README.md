@@ -48,6 +48,13 @@ If you think this project is useful and inspiring, we would greatly appreciate i
 Medical Agents, Clinical Workflows, Safety, Governance and Evaluation
 
 ## 🔥 News
+🔥Add Your Paper in our Repo and Survey!!!!! Join our group and post your agent work!!!!
+
+[-] You are welcome to give us an issue or PR for your medical agent work !!!!!
+
+[-] Note that: Due to the huge paper in Arxiv, we are sorry to cover all in our survey. You can directly present a PR into this repo and we will record it for next version update of our survey.
+
+[-] Our survey will be updated in 2025.3.
 
 **[2025/11/30]** We release the initial github  repo!
 
@@ -938,6 +945,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
   publisher={Authorea}
 }
 ```
+
 
 
 
