@@ -575,6 +575,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Proof-of-TBI--Fine-Tuned Vision Language Model Consortium and OpenAI-o3 Reasoning LLM-Based Medical Diagnosis Support System for Mild Traumatic Brain Injury (TBI) Prediction](https://arxiv.org/abs/2504.18671) | Not Available | 2025 |
 | [OpenAI o1 System Card](https://arxiv.org/abs/2412.16720) | [GitHub](https://github.com/cognitivetech/llm-research-summaries/tree/main) | 2024 |
 | [Beyond direct diagnosis: LLM-based multi-specialist agent consultation for automatic diagnosis](https://arxiv.org/abs/2401.16107) | Not Available | 2024 |
+| [MedAgent-Pro: Towards Evidence-based Multi-modal Medical Diagnosis via Reasoning Agentic Workflow](https://arxiv.org/pdf/2503.18968) | [GitHub](https://github.com/jinlab-imvr/medagent-pro) | 2025 |
 | [MedTrust-RAG: Evidence Verification and Trust Alignment for Biomedical Question Answering](https://arxiv.org/abs/2510.14400) | Not Available | 2025 |
 | [KG4Diagnosis: A Hierarchical Multi-Agent LLM Framework with Knowledge Graph Enhancement for Medical Diagnosis](https://arxiv.org/abs/2412.16833) | Not Available | 2024 |
 | [MAGDA: Multi-agent guideline-driven diagnostic assistance](https://arxiv.org/abs/2409.06351) | Not Available | 2024 |
@@ -936,6 +937,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
   publisher={Authorea}
 }
 ```
+
 
 
 
