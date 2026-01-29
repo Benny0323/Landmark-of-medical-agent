@@ -523,6 +523,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning](https://arxiv.org/abs/2311.10537) | [GitHub](https://github.com/gersteinlab/MedAgents) | 2024 |
 | [AMANDA: Agentic Medical Knowledge Augmentation for Data-Efficient Medical Visual Question Answering](https://arxiv.org/abs/2510.02328) | [GitHub](https://github.com/REAL-Lab-NU/AMANDA) | 2025 |
 | [NurseLLM: The First Specialized Language Model for Nursing](https://arxiv.org/abs/2510.07173) | Not Available | 2025 |
+| [A multimodal AI agent for clinical decision support in ophthalmology](https://arxiv.org/pdf/2511.09394) | Not Available | 2025 |
 | [Autonomous artificial intelligence agents for clinical decision making in oncology](https://arxiv.org/pdf/2404.04667) | Not Available | 2024 |
 | [ClinicalLab: Aligning Agents for Multi-Departmental Clinical Diagnostics in the Real World](https://arxiv.org/pdf/2406.13890) | [GitHub](https://github.com/WeixiangYAN/ClinicalLabd) | 2024 |
 | [Llm-based framework for administrative task automation in healthcare](https://ieeexplore.ieee.org/abstract/document/10527275) | Not Available | 2024 |
@@ -935,6 +936,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
   publisher={Authorea}
 }
 ```
+
 
 
 
