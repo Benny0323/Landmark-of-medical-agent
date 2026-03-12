@@ -695,8 +695,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 
 | Title | GitHub | Year |
 | --- | --- | --- |
-| [Pathology-Aware Prototype Evolution via LLM-Driven Semantic Disambiguation for Multicenter Diabetic Retinopathy Diagnosis](https://arxiv.org/abs/2511.22033) | [GitHub](https://github.com/zhcz328/HAPM) | application
-| [MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/abs/2511.22018) | Not Available
+| [MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/abs/2511.22018) | [GitHub](https://github.com/zhcz328/MedEyes) | 2025 |
 | [An agentic system for rare disease diagnosis with traceable reasoning](https://arxiv.org/abs/2506.20430) | Not Available | 2025 |
 | [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/abs/2505.16229) | Not Available | 2025 |
 | [Eyecaregpt: Boosting comprehensive ophthalmology understanding with tailored dataset, benchmark and model](https://arxiv.org/abs/2504.13650) | [GitHub](https://github.com/DCDmllm/EyecareGPT) | 2025 |
@@ -951,6 +950,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
   publisher={Authorea}
 }
 ```
+
 
 
 
