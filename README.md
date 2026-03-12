@@ -119,7 +119,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | Title | GitHub | Sections |
 | --- | --- | --- |
 | [Pathology-Aware Prototype Evolution via LLM-Driven Semantic Disambiguation for Multicenter Diabetic Retinopathy Diagnosis](https://arxiv.org/abs/2511.22033) | [GitHub](https://github.com/zhcz328/HAPM) | application
-| [MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/abs/2511.22018) | Not Available application
+| [MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/abs/2511.22018) | Not Available
 | [Grounded by Experience: Generative Healthcare Prediction Augmented with Hierarchical Agentic Retrieval](https://arxiv.org/abs/2511.13293) | [GitHub](https://github.com/Data-Designer/RAGHealth/) | application |
 | [Reinventing Clinical Dialogue: Agentic Paradigms for LLM‑Enabled Healthcare Communication](https://arxiv.org/html/2512.01453v1) | [GitHub](https://github.com/xqz614/Awesome-Agentic-Clinical-Dialogue/tree/main) | survey |
 | [Med-CMR: A Fine-Grained Benchmark Integrating Visual Evidence and Clinical Logic for Medical Complex Multimodal Reasoning](https://arxiv.org/pdf/2512.00818) | [GitHub](https://github.com/LsmnBmnc/Med-CMR) | evaluation |
@@ -696,6 +696,8 @@ We will try to keep this list updated. If you find any errors or any missed pape
 
 | Title | GitHub | Year |
 | --- | --- | --- |
+| [Pathology-Aware Prototype Evolution via LLM-Driven Semantic Disambiguation for Multicenter Diabetic Retinopathy Diagnosis](https://arxiv.org/abs/2511.22033) | [GitHub](https://github.com/zhcz328/HAPM) | application
+| [MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/abs/2511.22018) | Not Available
 | [An agentic system for rare disease diagnosis with traceable reasoning](https://arxiv.org/abs/2506.20430) | Not Available | 2025 |
 | [CT-Agent: A Multimodal-LLM Agent for 3D CT Radiology Question Answering](https://arxiv.org/abs/2505.16229) | Not Available | 2025 |
 | [Eyecaregpt: Boosting comprehensive ophthalmology understanding with tailored dataset, benchmark and model](https://arxiv.org/abs/2504.13650) | [GitHub](https://github.com/DCDmllm/EyecareGPT) | 2025 |
@@ -950,6 +952,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
   publisher={Authorea}
 }
 ```
+
 
 
 
