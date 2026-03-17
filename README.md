@@ -39,6 +39,9 @@
 This is the official repository for the survey paper: [The Landscape of Medical Agents](https://doi.org/10.36227/techrxiv.176581395.56964766/v1).
 This repository is a comprehensive and systematic research resource library for medical agents, dedicated to organizing and tracking the latest research progress, application practices, and technological developments of AI intelligent agents in the medical and health field. This investigative project covers the entire ecosystem from basic technical capabilities to clinical actual deployment, providing an authoritative research map for medical AI researchers, clinical practitioners, and system developers.
 
+## 🔥 News
+**[2026/3/10]** We release MedMASLab repo! Click here to visit: [medmaslab](https://github.com/NUS-Project/MedMASLab/tree/main)
+
 ## 🔥 Add Your Paper in our Repo and Survey!!!!! Join our group and post your agent work!!!!
 
 [-] You are welcome to give us an issue or PR for your medical agent work !!!!!
@@ -54,10 +57,6 @@ If you think this project is useful and inspiring, we would greatly appreciate i
 ## 📖 Keywords
 
 Medical Agents, Clinical Workflows, Safety, Governance and Evaluation
-
-## 🔥 News
-**[2026/3/10]** We release MedMASLab repo! Click here to visit: [medmaslab](https://github.com/NUS-Project/MedMASLab/tree/main)
-
 
 ## 🌟 Contributing 
 
