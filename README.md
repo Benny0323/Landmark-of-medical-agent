@@ -58,7 +58,6 @@ Medical Agents, Clinical Workflows, Safety, Governance and Evaluation
 ## 🔥 News
 **[2026/3/10]** We release MedMASLab repo! Click here to visit: [medmaslab](https://github.com/NUS-Project/MedMASLab/tree/main)
 
-**[2025/11/30]** We release the initial github  repo!
 
 ## 🌟 Contributing 
 
