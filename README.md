@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Arxiv-MedMASLab-red" alt="MedMASLab Arxiv">  
   </a>
    <a href="https://github.com/NUS-Project/MedMASLab/tree/main">  
-    <img src="https://img.shields.io/badge/MedMASLab-GitHub-green" alt="MedMASLab GitHub">  
+    <img src="https://img.shields.io/badge/GitHub-MedMASLab-green" alt="MedMASLab GitHub">  
   </a>
   <a href="https://doi.org/10.36227/techrxiv.176581395.56964766/v3">  
     <img src="https://img.shields.io/badge/Download-TexRxiv-ff69b4" alt="TechRxiv Download">  
