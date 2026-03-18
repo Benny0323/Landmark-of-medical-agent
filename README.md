@@ -1,6 +1,6 @@
 <div align="center">
   <h1> 🚀 The Landscape of Medical Agents: A Survey</h1>
-  <h1> 🚀 MedMASLab:A Framework for Multimodal Medical Multi-Agent Systems</h1>
+  <h2> 🚀 MedMASLab:A Framework for Multimodal Medical Multi-Agent Systems</h2>
 </div>
 
 <div align="center">
