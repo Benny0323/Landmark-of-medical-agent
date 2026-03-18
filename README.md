@@ -1,5 +1,6 @@
 <div align="center">
   <h1> 🚀 The Landscape of Medical Agents: A Survey</h1>
+  <h1> 🚀 MedMASLab:A Framework for Benchmarking Multimodal Medical MAS</h1>
 </div>
 
 <div align="center">
