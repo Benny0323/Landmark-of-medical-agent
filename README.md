@@ -4,9 +4,12 @@
 </div>
 
 <div align="center">
+  <a href="https://arxiv.org/abs/2603.09909">  
+    <img src="https://img.shields.io/badge/Arxiv-MedMASLab-red" alt="MedMASLab Arxiv">  
+  </a>
    <a href="https://github.com/NUS-Project/MedMASLab/tree/main">  
-    <img src="https://img.shields.io/badge/MedMASLab-GitHub-red" alt="MedMASLab GitHub">  
-</a>
+    <img src="https://img.shields.io/badge/MedMASLab-GitHub-green" alt="MedMASLab GitHub">  
+  </a>
   <a href="https://doi.org/10.36227/techrxiv.176581395.56964766/v3">  
     <img src="https://img.shields.io/badge/Download-TexRxiv-ff69b4" alt="TechRxiv Download">  
   </a> 
