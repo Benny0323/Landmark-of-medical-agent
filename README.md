@@ -5,7 +5,7 @@
 
 <div align="center">
    <a href="https://github.com/NUS-Project/MedMASLab/tree/main">  
-    <img src="https://img.shields.io/badge/GitHub-Page-blue" alt="MedMASLab GitHub">  
+    <img src="https://img.shields.io/badge/MedMASLab-GitHu-red" alt="MedMASLab GitHub">  
 </a>
   <a href="https://doi.org/10.36227/techrxiv.176581395.56964766/v3">  
     <img src="https://img.shields.io/badge/Download-TexRxiv-ff69b4" alt="TechRxiv Download">  
