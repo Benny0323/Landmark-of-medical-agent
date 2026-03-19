@@ -76,7 +76,16 @@ We will try to keep this list updated. If you find any errors or any missed pape
 ## 🤝 Main Contacts
 
 - Xiaobin Hu - ben0xiaobin0hu1@nus.edu.sg
-
+## Citation
+```
+ @article{hu2025landscape,
+  title={The Landscape of Medical Agents: A Survey},
+  author={Hu, Xiaobin and Qian, Yunhang and Yu, Jiaquan and Liu, Jingjing and Tang, Peng and Ji, Xiaozhong and Xu, Chengming and Liu, Jiawei and Yan, Xiaoxiao and Yu, Xinlei and others},
+  journal={Authorea Preprints},
+  year={2025},
+  publisher={Authorea}
+}
+```
 ## 🌟 Table of Contents
 
 - [Latest Papers](#latest-papers)
@@ -945,17 +954,6 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [A survey on large language model based autonomous agents](https://link.springer.com/content/pdf/10.1007/s11704-024-40231-1.pdf) | Not Available | 2024 |
 | [Tool learning with large language models: A survey](https://arxiv.org/abs/2405.17935) | [GitHub](https://github.com/quchangle1/LLM-Tool-Survey) | 2025 |
 
-
-## Citation
-```
- @article{hu2025landscape,
-  title={The Landscape of Medical Agents: A Survey},
-  author={Hu, Xiaobin and Qian, Yunhang and Yu, Jiaquan and Liu, Jingjing and Tang, Peng and Ji, Xiaozhong and Xu, Chengming and Liu, Jiawei and Yan, Xiaoxiao and Yu, Xinlei and others},
-  journal={Authorea Preprints},
-  year={2025},
-  publisher={Authorea}
-}
-```
 
 
 
