@@ -143,9 +143,9 @@ We will try to keep this list updated. If you find any errors or any missed pape
 # ✨ Latest Papers
 ## 🚀 Year-2026
 
-| Title | GitHub | Sections |
+| Title | Paper-link | Sections |
 | --- | --- | --- |
-| [MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/abs/2511.22018) | [GitHub](https://github.com/zhcz328/MedEyes) | application |
+| [MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/abs/2511.22018) | [Paper](https://arxiv.org/abs/2511.22018) | application |
 
 ## 🚀 Year-2025
 
