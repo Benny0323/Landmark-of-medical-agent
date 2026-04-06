@@ -100,6 +100,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 ## 🌟 Table of Contents
 
 - [Latest Papers](#latest-papers)
+  - [Year-2026](#Year-2026)
   - [Year-2025](#Year-2025)
   - [Year-2024](#Year-2024)
   - [Year-2023](#Year-2023)
