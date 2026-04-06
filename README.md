@@ -101,10 +101,10 @@ We will try to keep this list updated. If you find any errors or any missed pape
 
 - [Latest Papers](#latest-papers)
   - [Year-2026](#Year-2026)
-    - [january](#january)
-    - [february](#february)
-    - [march](#march)
-    - [april](#april)
+    - [January](#January)
+    - [February](#February)
+    - [March](#March)
+    - [April](#April)
   - [Year-2025](#Year-2025)
   - [Year-2024](#Year-2024)
   - [Year-2023](#Year-2023)
@@ -146,7 +146,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 
 # ✨ Latest Papers
 ## 🚀 Year-2026
-### **january**
+### **January**
 | Title | Paper-link | Sections |
 | --- | --- | --- |
 | [EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning](https://arxiv.org/abs/2601.22964) | [Paper](https://arxiv.org/abs/2601.22964) | benchmark |
@@ -185,7 +185,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [Bayesian Orchestration of Multi-LLM Agents for Cost-Aware Sequential Decision-Making](https://arxiv.org/abs/2601.01522) | [Paper](https://arxiv.org/abs/2601.01522) | framework |
 | [An Explainable Agentic AI Framework for Uncertainty-Aware and Abstention-Enabled Acute Ischemic Stroke Imaging Decisions](https://arxiv.org/abs/2601.01008) | [Paper](https://arxiv.org/abs/2601.01008) | benchmark |
 
-### **february**
+### **February**
 | Title | Paper-link | Sections |
 | --- | --- | --- |
 | [Evaluating Stochasticity in Deep Research Agents](https://arxiv.org/abs/2602.23271) | [Paper](https://arxiv.org/abs/2602.23271) | framework |
@@ -224,7 +224,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [ExperienceWeaver: Optimizing Small-sample Experience Learning for LLM-based Clinical Text Improvement](https://arxiv.org/abs/2602.00740) | [Paper](https://arxiv.org/abs/2602.00740) | benchmark |
 | [Enhancing Imaging Depth and Sensitivity in Reflectance Mode Near Infrared Optical Imaging with Scatter Reducing Agents](https://arxiv.org/abs/2602.00368) | [Paper](https://arxiv.org/abs/2602.00368) | application |
 
-### **march**
+### **March**
 | Title | Paper-link | Sections |
 | --- | --- | --- |
 | [Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding](https://arxiv.org/abs/2603.29709) | [Paper](https://arxiv.org/abs/2603.29709) | benchmark |
@@ -286,7 +286,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 | [DUCX: Decomposing Unfairness in Tool-Using Chest X-ray Agents](https://arxiv.org/abs/2603.00777) | [Paper](https://arxiv.org/abs/2603.00777) | framework |
 | [OPGAgent: An Agent for Auditable Dental Panoramic X-ray Interpretation](https://arxiv.org/abs/2603.00462) | [Paper](https://arxiv.org/abs/2603.00462) | benchmark |
 
-### **april**
+### **April**
 | Title | Paper-link | Sections |
 | --- | --- | --- |
 | [XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis](https://arxiv.org/abs/2604.02695) | [Paper](https://arxiv.org/abs/2604.02695) | benchmark |
