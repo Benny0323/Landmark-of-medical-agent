@@ -101,6 +101,10 @@ We will try to keep this list updated. If you find any errors or any missed pape
 
 - [Latest Papers](#latest-papers)
   - [Year-2026](#Year-2026)
+    - [2026_1](2026_1)
+    - [2026_2](2026_2)
+    - [2026_3](2026_3)
+    - [2026_4](2026_4)
   - [Year-2025](#Year-2025)
   - [Year-2024](#Year-2024)
   - [Year-2023](#Year-2023)
@@ -142,10 +146,154 @@ We will try to keep this list updated. If you find any errors or any missed pape
 
 # ✨ Latest Papers
 ## 🚀 Year-2026
-
-| Title | Paper-link | Date |
+### **2026_1**
+| Title | Paper-link | Sections |
 | --- | --- | --- |
-| [MedEyes: Learning Dynamic Visual Focus for Medical Progressive Diagnosis](https://arxiv.org/abs/2511.22018) | [Paper](https://arxiv.org/abs/2511.22018) | 2025.11 |
+| [EvoClinician: A Self-Evolving Agent for Multi-Turn Medical Diagnosis via Test-Time Evolutionary Learning](https://arxiv.org/abs/2601.22964) | [Paper](https://arxiv.org/abs/2601.22964) | benchmark |
+| [Structure-constrained Language-informed Diffusion Model for Unpaired Low-dose Computed Tomography Angiography Reconstruction](https://arxiv.org/abs/2601.20304) | [Paper](https://arxiv.org/abs/2601.20304) | application |
+| [Scaling Medical Reasoning Verification via Tool-Integrated Reinforcement Learning](https://arxiv.org/abs/2601.20221) | [Paper](https://arxiv.org/abs/2601.20221) | benchmark |
+| [Strong Reasoning Isn't Enough: Evaluating Evidence Elicitation in Interactive Diagnosis](https://arxiv.org/abs/2601.19773) | [Paper](https://arxiv.org/abs/2601.19773) | benchmark |
+| [DEEPMED: Building a Medical DeepResearch Agent via Multi-hop Med-Search Data and Turn-Controlled Agentic Training & Inference](https://arxiv.org/abs/2601.18496) | [Paper](https://arxiv.org/abs/2601.18496) | benchmark |
+| [Bayesian Multiple Testing for Suicide Risk in Pharmacoepidemiology: Leveraging Co-Prescription Patterns](https://arxiv.org/abs/2601.17985) | [Paper](https://arxiv.org/abs/2601.17985) | framework |
+| [AgentsEval: Clinically Faithful Evaluation of Medical Imaging Reports via Multi-Agent Reasoning](https://arxiv.org/abs/2601.16685) | [Paper](https://arxiv.org/abs/2601.16685) | benchmark |
+| [Automated Rubrics for Reliable Evaluation of Medical Dialogue Systems](https://arxiv.org/abs/2601.15161) | [Paper](https://arxiv.org/abs/2601.15161) | framework |
+| [Query-Efficient Agentic Graph Extraction Attacks on GraphRAG Systems](https://arxiv.org/abs/2601.14662) | [Paper](https://arxiv.org/abs/2601.14662) | benchmark |
+| [HyperWalker: Dynamic Hypergraph-Based Deep Diagnosis for Multi-Hop Clinical Modeling across EHR and X-Ray in Medical VLMs](https://arxiv.org/abs/2601.13919) | [Paper](https://arxiv.org/abs/2601.13919) | framework |
+| [AgentEHR: Advancing Autonomous Clinical Decision-Making via Retrospective Summarization](https://arxiv.org/abs/2601.13918) | [Paper](https://arxiv.org/abs/2601.13918) | benchmark |
+| [Towards Efficient and Robust Linguistic Emotion Diagnosis for Mental Health via Multi-Agent Instruction Refinement](https://arxiv.org/abs/2601.13481) | [Paper](https://arxiv.org/abs/2601.13481) | benchmark |
+| [Improving the Safety and Trustworthiness of Medical AI via Multi-Agent Evaluation Loops](https://arxiv.org/abs/2601.13268) | [Paper](https://arxiv.org/abs/2601.13268) | framework |
+| [MedConsultBench: A Full-Cycle, Fine-Grained, Process-Aware Benchmark for Medical Consultation Agents](https://arxiv.org/abs/2601.12661) | [Paper](https://arxiv.org/abs/2601.12661) | benchmark |
+| [Knowing When to Abstain: Medical LLMs Under Clinical Uncertainty](https://arxiv.org/abs/2601.12471) | [Paper](https://arxiv.org/abs/2601.12471) | benchmark |
+| [A multitask framework for automated interpretation of multi-frame right upper quadrant ultrasound in clinical decision support](https://arxiv.org/abs/2601.12174) | [Paper](https://arxiv.org/abs/2601.12174) | benchmark |
+| [Medication counseling with large language models: balancing flexibility and rigidity](https://arxiv.org/abs/2601.11544) | [Paper](https://arxiv.org/abs/2601.11544) | benchmark |
+| [MMedExpert-R1: Strengthening Multimodal Medical Reasoning via Domain-Specific Adaptation and Clinical Guideline Reinforcement](https://arxiv.org/abs/2601.10949) | [Paper](https://arxiv.org/abs/2601.10949) | benchmark |
+| [Japanese AI Agent System on Human Papillomavirus Vaccination: System Design](https://arxiv.org/abs/2601.10718) | [Paper](https://arxiv.org/abs/2601.10718) | framework |
+| [ART: Action-based Reasoning Task Benchmarking for Medical AI Agents](https://arxiv.org/abs/2601.08988) | [Paper](https://arxiv.org/abs/2601.08988) | benchmark |
+| [Route, Retrieve, Reflect, Repair: Self-Improving Agentic Framework for Visual Detection and Linguistic Reasoning in Medical Imaging](https://arxiv.org/abs/2601.08192) | [Paper](https://arxiv.org/abs/2601.08192) | framework |
+| [MEDVISTAGYM: A Scalable Training Environment for Thinking with Medical Images via Tool-Integrated Reinforcement Learning](https://arxiv.org/abs/2601.07107) | [Paper](https://arxiv.org/abs/2601.07107) | benchmark |
+| [MedEinst: Benchmarking the Einstellung Effect in Medical LLMs through Counterfactual Differential Diagnosis](https://arxiv.org/abs/2601.06636) | [Paper](https://arxiv.org/abs/2601.06636) | benchmark |
+| [Modeling Descriptive Norms in Multi-Agent Systems: An Auto-Aggregation PDE Framework with Adaptive Perception Kernels](https://arxiv.org/abs/2601.06557) | [Paper](https://arxiv.org/abs/2601.06557) | benchmark |
+| [Value of Information: A Framework for Human-Agent Communication](https://arxiv.org/abs/2601.06407) | [Paper](https://arxiv.org/abs/2601.06407) | framework |
+| [DemMA: Dementia Multi-Turn Dialogue Agent with Expert-Guided Reasoning and Action Simulation](https://arxiv.org/abs/2601.06373) | [Paper](https://arxiv.org/abs/2601.06373) | framework |
+| [Tool-MAD: A Multi-Agent Debate Framework for Fact Verification with Diverse Tool Augmentation and Adaptive Retrieval](https://arxiv.org/abs/2601.04742) | [Paper](https://arxiv.org/abs/2601.04742) | benchmark |
+| [Staged Voxel-Level Deep Reinforcement Learning for 3D Medical Image Segmentation with Noisy Annotations](https://arxiv.org/abs/2601.03875) | [Paper](https://arxiv.org/abs/2601.03875) | benchmark |
+| [RadDiff: Describing Differences in Radiology Image Sets with Natural Language](https://arxiv.org/abs/2601.03733) | [Paper](https://arxiv.org/abs/2601.03733) | benchmark |
+| [IBISAgent: Reinforcing Pixel-Level Visual Reasoning in MLLMs for Universal Biomedical Object Referring and Segmentation](https://arxiv.org/abs/2601.03054) | [Paper](https://arxiv.org/abs/2601.03054) | benchmark |
+| [MedDialogRubrics: A Comprehensive Benchmark and Evaluation Framework for Multi-turn Medical Consultations in Large Language Models](https://arxiv.org/abs/2601.03023) | [Paper](https://arxiv.org/abs/2601.03023) | benchmark |
+| [Causal-Enhanced AI Agents for Medical Research Screening](https://arxiv.org/abs/2601.02814) | [Paper](https://arxiv.org/abs/2601.02814) | medical |
+| [Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting](https://arxiv.org/abs/2601.02151) | [Paper](https://arxiv.org/abs/2601.02151) | medical |
+| [Bayesian Orchestration of Multi-LLM Agents for Cost-Aware Sequential Decision-Making](https://arxiv.org/abs/2601.01522) | [Paper](https://arxiv.org/abs/2601.01522) | framework |
+| [An Explainable Agentic AI Framework for Uncertainty-Aware and Abstention-Enabled Acute Ischemic Stroke Imaging Decisions](https://arxiv.org/abs/2601.01008) | [Paper](https://arxiv.org/abs/2601.01008) | benchmark |
+
+### **2026_2**
+| Title | Paper-link | Sections |
+| --- | --- | --- |
+| [Evaluating Stochasticity in Deep Research Agents](https://arxiv.org/abs/2602.23271) | [Paper](https://arxiv.org/abs/2602.23271) | framework |
+| [Agency and Architectural Limits: Why Optimization-Based Systems Cannot Be Norm-Responsive](https://arxiv.org/abs/2602.23239) | [Paper](https://arxiv.org/abs/2602.23239) | medical |
+| [Can Agents Distinguish Visually Hard-to-Separate Diseases in a Zero-Shot Setting? A Pilot Study](https://arxiv.org/abs/2602.22959) | [Paper](https://arxiv.org/abs/2602.22959) | benchmark |
+| [Which Tool Response Should I Trust? Tool-Expertise-Aware Chest X-ray Agent with Multimodal Agentic Learning](https://arxiv.org/abs/2602.21517) | [Paper](https://arxiv.org/abs/2602.21517) | framework |
+| [ALPACA: A Reinforcement Learning Environment for Medication Repurposing and Treatment Optimization in Alzheimer's Disease](https://arxiv.org/abs/2602.19298) | [Paper](https://arxiv.org/abs/2602.19298) | medical |
+| [LAMMI-Pathology: A Tool-Centric Bottom-Up LVLM-Agent Framework for Molecularly Informed Medical Intelligence in Pathology](https://arxiv.org/abs/2602.18773) | [Paper](https://arxiv.org/abs/2602.18773) | framework |
+| [NutriOrion: A Hierarchical Multi-Agent Framework for Personalized Nutrition Intervention Grounded in Clinical Guidelines](https://arxiv.org/abs/2602.18650) | [Paper](https://arxiv.org/abs/2602.18650) | framework |
+| [4D-UNet improves clutter rejection in human transcranial contrast enhanced ultrasound](https://arxiv.org/abs/2602.18542) | [Paper](https://arxiv.org/abs/2602.18542) | benchmark |
+| [INSURE-Dial: A Phase-Aware Conversational Dataset & Benchmark for Compliance Verification and Phase Detection](https://arxiv.org/abs/2602.18448) | [Paper](https://arxiv.org/abs/2602.18448) | benchmark |
+| [3DMedAgent: Unified Perception-to-Understanding for 3D Medical Analysis](https://arxiv.org/abs/2602.18064) | [Paper](https://arxiv.org/abs/2602.18064) | benchmark |
+| [Agentic Unlearning: When LLM Agent Meets Machine Unlearning](https://arxiv.org/abs/2602.17692) | [Paper](https://arxiv.org/abs/2602.17692) | benchmark |
+| [MedClarify: An information-seeking AI agent for medical diagnosis with case-specific follow-up questions](https://arxiv.org/abs/2602.17308) | [Paper](https://arxiv.org/abs/2602.17308) | medical |
+| [Agentic AI, Medical Morality, and the Transformation of the Patient-Physician Relationship](https://arxiv.org/abs/2602.16553) | [Paper](https://arxiv.org/abs/2602.16553) | framework |
+| [A Multi-Agent Framework for Medical AI: Leveraging Fine-Tuned GPT, LLaMA, and DeepSeek R1 for Evidence-Based and Bias-Aware Clinical Query Processing](https://arxiv.org/abs/2602.14158) | [Paper](https://arxiv.org/abs/2602.14158) | benchmark |
+| [MedScope: Incentivizing "Think with Videos" for Clinical Reasoning via Coarse-to-Fine Tool Calling](https://arxiv.org/abs/2602.13332) | [Paper](https://arxiv.org/abs/2602.13332) | benchmark |
+| [Implicit Bias in LLMs for Transgender Populations](https://arxiv.org/abs/2602.13253) | [Paper](https://arxiv.org/abs/2602.13253) | application |
+| [TRACE: Temporal Reasoning via Agentic Context Evolution for Streaming Electronic Health Records (EHRs)](https://arxiv.org/abs/2602.12833) | [Paper](https://arxiv.org/abs/2602.12833) | framework |
+| [MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs](https://arxiv.org/abs/2602.12705) | [Paper](https://arxiv.org/abs/2602.12705) | benchmark |
+| [Advancing AI Trustworthiness Through Patient Simulation: Risk Assessment of Conversational Agents for Antidepressant Selection](https://arxiv.org/abs/2602.11391) | [Paper](https://arxiv.org/abs/2602.11391) | framework |
+| [LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation](https://arxiv.org/abs/2602.10367) | [Paper](https://arxiv.org/abs/2602.10367) | benchmark |
+| [Closing Reasoning Gaps in Clinical Agents with Differential Reasoning Learning](https://arxiv.org/abs/2602.09945) | [Paper](https://arxiv.org/abs/2602.09945) | benchmark |
+| [CoMMa: Contribution-Aware Medical Multi-Agents From A Game-Theoretic Perspective](https://arxiv.org/abs/2602.09159) | [Paper](https://arxiv.org/abs/2602.09159) | benchmark |
+| [SynthAgent: A Multi-Agent LLM Framework for Realistic Patient Simulation -- A Case Study in Obesity with Mental Health Comorbidities](https://arxiv.org/abs/2602.08254) | [Paper](https://arxiv.org/abs/2602.08254) | framework |
+| [MedCoG: Maximizing LLM Inference Density in Medical Reasoning via Meta-Cognitive Regulation](https://arxiv.org/abs/2602.07905) | [Paper](https://arxiv.org/abs/2602.07905) | benchmark |
+| [JADE: Expert-Grounded Dynamic Evaluation for Open-Ended Professional Tasks](https://arxiv.org/abs/2602.06486) | [Paper](https://arxiv.org/abs/2602.06486) | benchmark |
+| [Do LLMs Act Like Rational Agents? Measuring Belief Coherence in Probabilistic Decision Making](https://arxiv.org/abs/2602.06286) | [Paper](https://arxiv.org/abs/2602.06286) | application |
+| [Pruning Minimal Reasoning Graphs for Efficient Retrieval-Augmented Generation](https://arxiv.org/abs/2602.04926) | [Paper](https://arxiv.org/abs/2602.04926) | benchmark |
+| [Agentic AI in Healthcare & Medicine: A Seven-Dimensional Taxonomy for Empirical Evaluation of LLM-based Agents](https://arxiv.org/abs/2602.04813) | [Paper](https://arxiv.org/abs/2602.04813) | benchmark |
+| [MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning](https://arxiv.org/abs/2602.03320) | [Paper](https://arxiv.org/abs/2602.03320) | benchmark |
+| [Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch](https://arxiv.org/abs/2602.03183) | [Paper](https://arxiv.org/abs/2602.03183) | benchmark |
+| [Perfusion Imaging and Single Material Reconstruction in Polychromatic Photon Counting CT](https://arxiv.org/abs/2602.02713) | [Paper](https://arxiv.org/abs/2602.02713) | medical |
+| [RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Knowledge-Grounded Clinical Diagnosis](https://arxiv.org/abs/2602.01297) | [Paper](https://arxiv.org/abs/2602.01297) | benchmark |
+| [MedBeads: An Agent-Native, Immutable Data Substrate for Trustworthy Medical AI](https://arxiv.org/abs/2602.01086) | [Paper](https://arxiv.org/abs/2602.01086) | framework |
+| [ExperienceWeaver: Optimizing Small-sample Experience Learning for LLM-based Clinical Text Improvement](https://arxiv.org/abs/2602.00740) | [Paper](https://arxiv.org/abs/2602.00740) | benchmark |
+| [Enhancing Imaging Depth and Sensitivity in Reflectance Mode Near Infrared Optical Imaging with Scatter Reducing Agents](https://arxiv.org/abs/2602.00368) | [Paper](https://arxiv.org/abs/2602.00368) | application |
+
+### **2026_3**
+| Title | Paper-link | Sections |
+| --- | --- | --- |
+| [Symphony for Medical Coding: A Next-Generation Agentic System for Scalable and Explainable Medical Coding](https://arxiv.org/abs/2603.29709) | [Paper](https://arxiv.org/abs/2603.29709) | benchmark |
+| [Knowledge database development by large language models for countermeasures against viruses and marine toxins](https://arxiv.org/abs/2603.29149) | [Paper](https://arxiv.org/abs/2603.29149) | medical |
+| [Towards a Medical AI Scientist](https://arxiv.org/abs/2603.28589) | [Paper](https://arxiv.org/abs/2603.28589) | framework |
+| [FeDMRA: Federated Incremental Learning with Dynamic Memory Replay Allocation](https://arxiv.org/abs/2603.28455) | [Paper](https://arxiv.org/abs/2603.28455) | benchmark |
+| [Improving Clinical Diagnosis with Counterfactual Multi-Agent Reasoning](https://arxiv.org/abs/2603.27820) | [Paper](https://arxiv.org/abs/2603.27820) | benchmark |
+| [MediHive: A Decentralized Agent Collective for Medical Reasoning](https://arxiv.org/abs/2603.27150) | [Paper](https://arxiv.org/abs/2603.27150) | benchmark |
+| [Autonomous Agent-Orchestrated Digital Twins (AADT): Leveraging the OpenClaw Framework for State Synchronization in Rare Genetic Disorders](https://arxiv.org/abs/2603.27104) | [Paper](https://arxiv.org/abs/2603.27104) | framework |
+| [Doctorina MedBench: End-to-End Evaluation of Agent-Based Medical AI](https://arxiv.org/abs/2603.25821) | [Paper](https://arxiv.org/abs/2603.25821) | benchmark |
+| [Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos](https://arxiv.org/abs/2603.25645) | [Paper](https://arxiv.org/abs/2603.25645) | benchmark |
+| [OMIND: Framework for Knowledge Grounded Finetuning and Multi-Turn Dialogue Benchmark for Mental Health LLMs](https://arxiv.org/abs/2603.25105) | [Paper](https://arxiv.org/abs/2603.25105) | benchmark |
+| [Belief-Driven Multi-Agent Collaboration via Approximate Perfect Bayesian Equilibrium for Social Simulation](https://arxiv.org/abs/2603.24973) | [Paper](https://arxiv.org/abs/2603.24973) | benchmark |
+| [MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies](https://arxiv.org/abs/2603.24649) | [Paper](https://arxiv.org/abs/2603.24649) | benchmark |
+| [Multi-Agent Reasoning with Consistency Verification Improves Uncertainty Calibration in Medical MCQA](https://arxiv.org/abs/2603.24481) | [Paper](https://arxiv.org/abs/2603.24481) | benchmark |
+| [RVLM: Recursive Vision-Language Models with Adaptive Depth](https://arxiv.org/abs/2603.24224) | [Paper](https://arxiv.org/abs/2603.24224) | framework |
+| [CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare](https://arxiv.org/abs/2603.24157) | [Paper](https://arxiv.org/abs/2603.24157) | benchmark |
+| [Dialogue to Question Generation for Evidence-based Medical Guideline Agent Development](https://arxiv.org/abs/2603.23937) | [Paper](https://arxiv.org/abs/2603.23937) | benchmark |
+| [3D-LLDM: Label-Guided 3D Latent Diffusion Model for Improving High-Resolution Synthetic MR Imaging in Hepatic Structure Segmentation](https://arxiv.org/abs/2603.23845) | [Paper](https://arxiv.org/abs/2603.23845) | benchmark |
+| [From Physician Expertise to Clinical Agents: Preserving, Standardizing, and Scaling Physicians' Medical Expertise with Lightweight LLM](https://arxiv.org/abs/2603.23520) | [Paper](https://arxiv.org/abs/2603.23520) | framework |
+| [Training a Large Language Model for Medical Coding Using Privacy-Preserving Synthetic Clinical Data](https://arxiv.org/abs/2603.23515) | [Paper](https://arxiv.org/abs/2603.23515) | medical |
+| [Privacy-Preserving EHR Data Transformation via Geometric Operators: A Human-AI Co-Design Technical Report](https://arxiv.org/abs/2603.22954) | [Paper](https://arxiv.org/abs/2603.22954) | framework |
+| [Can LLM Agents Generate Real-World Evidence? Evaluating Observational Studies in Medical Databases](https://arxiv.org/abs/2603.22767) | [Paper](https://arxiv.org/abs/2603.22767) | benchmark |
+| [Cerebra: A Multidisciplinary AI Board for Multimodal Dementia Characterization and Risk Assessment](https://arxiv.org/abs/2603.21597) | [Paper](https://arxiv.org/abs/2603.21597) | benchmark |
+| [Agentic Automation of BT-RADS Scoring: End-to-End Multi-Agent System for Standardized Brain Tumor Follow-up Assessment](https://arxiv.org/abs/2603.21494) | [Paper](https://arxiv.org/abs/2603.21494) | medical |
+| [ARYA: A Physics-Constrained Composable & Deterministic World Model Architecture](https://arxiv.org/abs/2603.21340) | [Paper](https://arxiv.org/abs/2603.21340) | benchmark |
+| [Anatomical Prior-Driven Framework for Autonomous Robotic Cardiac Ultrasound Standard View Acquisition](https://arxiv.org/abs/2603.21134) | [Paper](https://arxiv.org/abs/2603.21134) | benchmark |
+| [TuLaBM: Tumor-Biased Latent Bridge Matching for Contrast-Enhanced MRI Synthesis](https://arxiv.org/abs/2603.19386) | [Paper](https://arxiv.org/abs/2603.19386) | benchmark |
+| [OpenHospital: A Thing-in-itself Arena for Evolving and Benchmarking LLM-based Collective Intelligence](https://arxiv.org/abs/2603.14771) | [Paper](https://arxiv.org/abs/2603.14771) | benchmark |
+| [MedPriv-Bench: Benchmarking the Privacy-Utility Trade-off of Large Language Models in Medical Open-End Question Answering](https://arxiv.org/abs/2603.14265) | [Paper](https://arxiv.org/abs/2603.14265) | benchmark |
+| [Towards Equitable Robotic Furnishing Agents for Aging-in-Place: ADL-Grounded Design Exploration](https://arxiv.org/abs/2603.14182) | [Paper](https://arxiv.org/abs/2603.14182) | other |
+| [EviAgent: Evidence-Driven Agent for Radiology Report Generation](https://arxiv.org/abs/2603.13956) | [Paper](https://arxiv.org/abs/2603.13956) | benchmark |
+| [OmniCompliance-100K: A Multi-Domain, Rule-Grounded, Real-World Safety Compliance Dataset](https://arxiv.org/abs/2603.13933) | [Paper](https://arxiv.org/abs/2603.13933) | benchmark |
+| [Beyond Medical Diagnostics: How Medical Multimodal Large Language Models Think in Space](https://arxiv.org/abs/2603.13800) | [Paper](https://arxiv.org/abs/2603.13800) | benchmark |
+| [Six Interventions for the Responsible and Ethical Implementation of Medical AI Agents](https://arxiv.org/abs/2603.13743) | [Paper](https://arxiv.org/abs/2603.13743) | benchmark |
+| [TheraAgent: Multi-Agent Framework with Self-Evolving Memory and Evidence-Calibrated Reasoning for PET Theranostics](https://arxiv.org/abs/2603.13676) | [Paper](https://arxiv.org/abs/2603.13676) | framework |
+| [Increasing intelligence in AI agents can worsen collective outcomes](https://arxiv.org/abs/2603.12129) | [Paper](https://arxiv.org/abs/2603.12129) | medical |
+| [A Semi-Decentralized Approach to Multiagent Control](https://arxiv.org/abs/2603.11802) | [Paper](https://arxiv.org/abs/2603.11802) | benchmark |
+| [When OpenClaw Meets Hospital: Toward an Agentic Operating System for Dynamic Clinical Workflows](https://arxiv.org/abs/2603.11721) | [Paper](https://arxiv.org/abs/2603.11721) | benchmark |
+| [UAV-MARL: Multi-Agent Reinforcement Learning for Time-Critical and Dynamic Medical Supply Delivery](https://arxiv.org/abs/2603.10528) | [Paper](https://arxiv.org/abs/2603.10528) | benchmark |
+| [Human-AI Co-reasoning for Clinical Diagnosis with Evidence-Integrated Language Agent](https://arxiv.org/abs/2603.10492) | [Paper](https://arxiv.org/abs/2603.10492) | benchmark |
+| [MedMASLab: A Unified Orchestration Framework for Benchmarking Multimodal Medical Multi-Agent Systems](https://arxiv.org/abs/2603.09909) | [Paper](https://arxiv.org/abs/2603.09909) | benchmark |
+| [Meissa: Multi-modal Medical Agentic Intelligence](https://arxiv.org/abs/2603.09018) | [Paper](https://arxiv.org/abs/2603.09018) | benchmark |
+| [RexDrug: Reliable Multi-Drug Combination Extraction through Reasoning-Enhanced LLMs](https://arxiv.org/abs/2603.08166) | [Paper](https://arxiv.org/abs/2603.08166) | benchmark |
+| [Empowering Locally Deployable Medical Agent via State Enhanced Logical Skills for FHIR-based Clinical Tasks](https://arxiv.org/abs/2603.06902) | [Paper](https://arxiv.org/abs/2603.06902) | benchmark |
+| [Computational Pathology in the Era of Emerging Foundation and Agentic AI -- International Expert Perspectives on Clinical Integration and Translational Readiness](https://arxiv.org/abs/2603.05884) | [Paper](https://arxiv.org/abs/2603.05884) | benchmark |
+| [Shifting Adaptation from Weight Space to Memory Space: A Memory-Augmented Agent for Medical Image Segmentation](https://arxiv.org/abs/2603.05873) | [Paper](https://arxiv.org/abs/2603.05873) | benchmark |
+| [Evolving Medical Imaging Agents via Experience-driven Self-skill Discovery](https://arxiv.org/abs/2603.05860) | [Paper](https://arxiv.org/abs/2603.05860) | benchmark |
+| [MedCoRAG: Interpretable Hepatology Diagnosis via Hybrid Evidence Retrieval and Multispecialty Consensus](https://arxiv.org/abs/2603.05129) | [Paper](https://arxiv.org/abs/2603.05129) | framework |
+| [Model Medicine: A Clinical Framework for Understanding, Diagnosing, and Treating AI Models](https://arxiv.org/abs/2603.04722) | [Paper](https://arxiv.org/abs/2603.04722) | framework |
+| [Do Mixed-Vendor Multi-Agent LLMs Improve Clinical Diagnosis?](https://arxiv.org/abs/2603.04421) | [Paper](https://arxiv.org/abs/2603.04421) | framework |
+| [A Multi-Agent Framework for Interpreting Multivariate Physiological Time Series](https://arxiv.org/abs/2603.04142) | [Paper](https://arxiv.org/abs/2603.04142) | medical |
+| [MIND: Unified Inquiry and Diagnosis RL with Criteria Grounded Clinical Supports for Psychiatric Consultation](https://arxiv.org/abs/2603.03677) | [Paper](https://arxiv.org/abs/2603.03677) | framework |
+| [From Conflict to Consensus: Boosting Medical Reasoning via Multi-Round Agentic RAG](https://arxiv.org/abs/2603.03292) | [Paper](https://arxiv.org/abs/2603.03292) | benchmark |
+| [ATPO: Adaptive Tree Policy Optimization for Multi-Turn Medical Dialogue](https://arxiv.org/abs/2603.02216) | [Paper](https://arxiv.org/abs/2603.02216) | benchmark |
+| [CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework](https://arxiv.org/abs/2603.01607) | [Paper](https://arxiv.org/abs/2603.01607) | benchmark |
+| [TARSE: Test-Time Adaptation via Retrieval of Skills and Experience for Reasoning Agents](https://arxiv.org/abs/2603.01241) | [Paper](https://arxiv.org/abs/2603.01241) | benchmark |
+| [MedCollab: Causal-Driven Multi-Agent Collaboration for Full-Cycle Clinical Diagnosis via IBIS-Structured Argumentation](https://arxiv.org/abs/2603.01131) | [Paper](https://arxiv.org/abs/2603.01131) | benchmark |
+| [DUCX: Decomposing Unfairness in Tool-Using Chest X-ray Agents](https://arxiv.org/abs/2603.00777) | [Paper](https://arxiv.org/abs/2603.00777) | framework |
+| [OPGAgent: An Agent for Auditable Dental Panoramic X-ray Interpretation](https://arxiv.org/abs/2603.00462) | [Paper](https://arxiv.org/abs/2603.00462) | benchmark |
+
+### **2026_4**
+| Title | Paper-link | Sections |
+| --- | --- | --- |
+| [XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis](https://arxiv.org/abs/2604.02695) | [Paper](https://arxiv.org/abs/2604.02695) | benchmark |
+| [ECG Foundation Models and Medical LLMs for Agentic Cardiovascular Intelligence at the Edge: A Review and Outlook](https://arxiv.org/abs/2604.02501) | [Paper](https://arxiv.org/abs/2604.02501) | framework |
+| [Safety, Security, and Cognitive Risks in World Models](https://arxiv.org/abs/2604.01346) | [Paper](https://arxiv.org/abs/2604.01346) | medical |
+| [CARE: Privacy-Compliant Agentic Reasoning with Evidence Discordance](https://arxiv.org/abs/2604.01113) | [Paper](https://arxiv.org/abs/2604.01113) | benchmark |
+| [Collaborative AI Agents and Critics for Fault Detection and Cause Analysis in Network Telemetry](https://arxiv.org/abs/2604.00319) | [Paper](https://arxiv.org/abs/2604.00319) | medical |
 
 ## 🚀 Year-2025
 
