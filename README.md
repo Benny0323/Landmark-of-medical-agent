@@ -289,6 +289,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 ### **April**
 | Title | Paper-link | Sections |
 | --- | --- | --- |
+| [Beyond the Individual: Virtualizing Multi-Disciplinary Reasoning for Clinical Intake via Collaborative Agents](https://arxiv.org/abs/2604.08927) | [Paper](https://arxiv.org/abs/2604.08927) | application |
 | [XrayClaw: Cooperative-Competitive Multi-Agent Alignment for Trustworthy Chest X-ray Diagnosis](https://arxiv.org/abs/2604.02695) | [Paper](https://arxiv.org/abs/2604.02695) | benchmark |
 | [ECG Foundation Models and Medical LLMs for Agentic Cardiovascular Intelligence at the Edge: A Review and Outlook](https://arxiv.org/abs/2604.02501) | [Paper](https://arxiv.org/abs/2604.02501) | framework |
 | [Safety, Security, and Cognitive Risks in World Models](https://arxiv.org/abs/2604.01346) | [Paper](https://arxiv.org/abs/2604.01346) | medical |
@@ -869,6 +870,7 @@ We will try to keep this list updated. If you find any errors or any missed pape
 
 | Title | GitHub | Year |
 | --- | --- | --- |
+| [Beyond the Individual: Virtualizing Multi-Disciplinary Reasoning for Clinical Intake via Collaborative Agents](https://arxiv.org/abs/2604.08927) | [GitHub](https://github.com/HovChen/Aegle) | 2026 |
 | [Chatbot To Help Patients Understand Their Health](https://arxiv.org/abs/2509.05818) | [GitHub](https://github.com/memy85/2024_chatbot_noteaid) | 2025 |
 | [Diaggpt: An llm-based and multi-agent dialogue system with automatic topic management for flexible task-oriented dialogue](https://arxiv.org/abs/2308.08043) | [GitHub](https://github.com/zzlang-c/DiagGPT) | 2023 |
 
